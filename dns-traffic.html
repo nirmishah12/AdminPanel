@@ -249,189 +249,137 @@
         </div>
     </nav>
 
-    <div class="col-12 event-page mt-4">
+    <div class="col-12 event-page cyber-threat-map">
         <div class="row event-section">
-            <div class="col-lg-7 mb-4">
-                <div class="event-section-left">
-                    <h3>We Want to Meet With You</h3>
-                    <div class="position-relative">
-                        <img src="./images/event1.png" class="img-fluid" />
-                        <div class="event-title">
-                            Gartner Japan Security & Risk<br>
-                            Management Summit
-                        </div>
-                        <div class="event-user-images">
-                            <img src="./images/user1.png" class="user1" />
-                            <img src="./images/user2.png" class="user2" />
-                            <img src="./images/user3.png" />
-                        </div>
-                        <div class="event-btn">
-                            <a href="javascript:void(0)">Event</a>
-                        </div>
-                    </div>
-                    <h4 class="event-time mt-3">Oct 6 - 8 | Japan</h4>
-                </div>
-            </div>
-            <div class="col-lg-5">
-                <div class="mb-4 pb-2">
-                <div class="position-relative">
-                    <img src="./images/event2.png" class="img-fluid" />
-                    <div class="event-title event-title2">
-                        Gartner Japan Security & Risk<br>
-                        Management Summit
-                    </div>
-                    <div class="event-btn">
-                        <a href="javascript:void(0)">Event</a>
-                    </div>
-                </div>
-                <h4 class="event-time mt-3">Oct 13 - 16 | Dubai</h4>
-            </div>
-                <div class="row">
-                    <div class="col-md-6 mb-4">
-                        <div class="position-relative">
-                            <img src="./images/event3.png" class="img-fluid" />
-                            <div class="event-title">
-                                Interface
-                            </div>
-                            <div class="event-btn">
-                                <a href="javascript:void(0)">Event</a>
-                            </div>
-                        </div>
-                        <h4 class="event-time mt-3">Sep 20 - 21 | Germany</h4>
-                    </div>
-                    <div class="col-md-6 mb-4">
-                        <div class="position-relative">
-                            <img src="./images/event4.png" class="img-fluid" />
-                            <div class="event-title">
-                                3D
-                            </div>
-                            <div class="event-btn">
-                                <a href="javascript:void(0)">Event</a>
-                            </div>
-                        </div>
-                        <h4 class="event-time mt-3">Oct 6 - 8 | Japan</h4>
-                    </div>
-                </div>
-            </div>
+            <canvas id="myChart" style="width:100%;max-width:600px"></canvas>
         </div>
         <div class="container">
-            <div class="row my-5">
-                <div class="col-md-4 mb-3">
-                    <div class="event-box">
-                        <p class="text-right mb-0">Oct 6 - 8</p>
-                        <div class="d-flex align-items-center">
-                            <img src="./images/event-clipboard.png" class="mr-3 event-img-bg">
-                            <div>
-                                <p class="mb-1 event-name">Event_1</p>
-                                <p class="mb-0 event-country-name">Japan</p>
-                            </div>
+            <div class="row mt-5">
+                <div class="col-md-6">
+                    <div class="border-radius-7 event-section pt-3 pb-2 mb-5">
+                        <h4 class="text-white mt-0 mb-0">Top Date Centers for DNS Traffic</h4>
+                        <p class="text-dark-gray font15">Last 6 hours</p>
+                        <div class="table-responsive">
+                            <table class="table mb-0">
+                                <thead>
+                                <tr>
+                                    <th>Top</th>
+                                    <th>City</th>
+                                    <th>Queries</th>
+                                </tr>
+                                </thead>
+                                <tbody>
+                                <tr>
+                                    <td>1</td>
+                                    <td>Rasia</td>
+                                    <td>19,962,077</td>
+                                </tr>
+                                <tr>
+                                    <td>2</td>
+                                    <td>Singapore</td>
+                                    <td>14,373,545</td>
+                                </tr>
+                                <tr>
+                                    <td>3</td>
+                                    <td>Brazil</td>
+                                    <td>11,781,572</td>
+                                </tr>
+                                <tr>
+                                    <td>4</td>
+                                    <td>Germany</td>
+                                    <td>8,295,581</td>
+                                </tr>
+                                <tr>
+                                    <td>5</td>
+                                    <td>Rasia</td>
+                                    <td>14,373,545</td>
+                                </tr>
+                                <tr>
+                                    <td>6</td>
+                                    <td>Singapore</td>
+                                    <td>11,781,572</td>
+                                </tr>
+                                <tr>
+                                    <td>7</td>
+                                    <td>Brazil</td>
+                                    <td>8,295,581</td>
+                                </tr>
+                                <tr>
+                                    <td>8</td>
+                                    <td>Germany</td>
+                                    <td>19,962,077</td>
+                                </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                        <div class="text-right mb-3">
+                            <a href="javascript:void(0)">Help <i class="fas fa-caret-right ml-2"></i></a>
                         </div>
                     </div>
                 </div>
-                <div class="col-md-4 mb-3">
-                    <div class="event-box">
-                        <p class="text-right mb-0">Oct 6 - 8</p>
-                        <div class="d-flex align-items-center">
-                            <img src="./images/event-clipboard.png" class="mr-3 event-img-bg">
-                            <div>
-                                <p class="mb-1 event-name">Event_1</p>
-                                <p class="mb-0 event-country-name">Usa</p>
-                            </div>
+                <div class="col-md-6">
+                    <div class="border-radius-7 event-section pt-3 pb-2 mb-5">
+                        <h4 class="text-white mt-0 mb-0">Top Date Centers for DNS Traffic</h4>
+                        <p class="text-dark-gray font15">Last 6 hours</p>
+                        <div class="table-responsive">
+                        <table class="table mb-0">
+                            <thead>
+                            <tr>
+                                <th>Top</th>
+                                <th>City</th>
+                                <th>Queries</th>
+                            </tr>
+                            </thead>
+                            <tbody>
+                            <tr>
+                                <td>1</td>
+                                <td>Rasia</td>
+                                <td>19,962,077</td>
+                            </tr>
+                            <tr>
+                                <td>2</td>
+                                <td>Singapore</td>
+                                <td>14,373,545</td>
+                            </tr>
+                            <tr>
+                                <td>3</td>
+                                <td>Brazil</td>
+                                <td>11,781,572</td>
+                            </tr>
+                            <tr>
+                                <td>4</td>
+                                <td>Germany</td>
+                                <td>8,295,581</td>
+                            </tr>
+                            <tr>
+                                <td>5</td>
+                                <td>Rasia</td>
+                                <td>14,373,545</td>
+                            </tr>
+                            <tr>
+                                <td>6</td>
+                                <td>Singapore</td>
+                                <td>11,781,572</td>
+                            </tr>
+                            <tr>
+                                <td>7</td>
+                                <td>Brazil</td>
+                                <td>8,295,581</td>
+                            </tr>
+                            <tr>
+                                <td>8</td>
+                                <td>Germany</td>
+                                <td>19,962,077</td>
+                            </tr>
+                            </tbody>
+                        </table>
+                        <div class="text-right mb-3">
+                            <a href="javascript:void(0)">Help <i class="fas fa-caret-right ml-2"></i></a>
                         </div>
-                    </div>
-                </div>
-                <div class="col-md-4 mb-3">
-                    <div class="event-box">
-                        <p class="text-right mb-0">Oct 6 - 8</p>
-                        <div class="d-flex align-items-center">
-                            <img src="./images/event-clipboard.png" class="mr-3 event-img-bg">
-                            <div>
-                                <p class="mb-1 event-name">Event_1</p>
-                                <p class="mb-0 event-country-name">China</p>
-                            </div>
                         </div>
                     </div>
                 </div>
             </div>
-
-            <div class="slide-container my-5 pb-3">
-                <div class="wrapper">
-                  <div class="card">
-                    <div class="cardImage cardIllustration">
-                      <div class="">
-                          <div class="d-flex justify-content-between">
-                            <h4 class="font14 mb-3 min-h-60 line-height-20 mr-2">Nunc scelerisque tincidunt elit. Vestibulum non mi ipsum. Cras pretium suscipit tellus sit amet aliquet. Vestibulum maximus lacinia massa non porttitor.</h4>
-                            <a href="javascript:void(0)" class="more-event"><i class="fas fa-ellipsis-h"></i></a>
-                          </div>
-                          <img src="./images/event-slider1.png" class="img-fluid" />
-                          <hr>
-                          <div class="d-flex justify-content-between align-items-center">
-                              <a href="javascript:void(0)" class="text-green font-15">Upcoming webinar</a>
-                              <p class="my-0 font11">Jul 1, 20218:00 pm EEST</p>
-                          </div>
-                      </div>
-                      <!--add text-->
-                    </div>
-                  </div> <!-- end card-->
-                </div> <!-- end wrapper -->
-                <div class="wrapper">
-                  <div class="card">
-                    <div class="cardImage cardIllustration">
-                        <div class="">
-                            <div class="d-flex justify-content-between">
-                              <h4 class="font14 mb-3 min-h-60 line-height-20 mr-2">Working too DAM hard on your Guardium installation? Imperva can help (APJ)</h4>
-                              <a href="javascript:void(0)" class="more-event"><i class="fas fa-ellipsis-h"></i></a>
-                            </div>
-                            <img src="./images/event-slider2.png" class="img-fluid" />
-                            <hr>
-                            <div class="d-flex justify-content-between align-items-center">
-                                <a href="javascript:void(0)" class="text-green font-15">Upcoming webinar</a>
-                                <p class="my-0 font11">Jul 1, 20218:00 pm EEST</p>
-                            </div>
-                        </div>
-                        <!--add text-->
-                      </div>
-                  </div> <!-- end card-->
-                </div> <!-- end wrapper -->
-                <div class="wrapper">
-                  <div class="card">
-                    <div class="cardImage cardIllustration">
-                        <div class="">
-                            <div class="d-flex justify-content-between">
-                              <h4 class="font14 mb-3 min-h-60 line-height-20 mr-2">Nunc scelerisque tincidunt elit. Vestibulum non mi ipsum. Cras pretium suscipit tellus sit amet aliquet. Vestibulum maximus lacinia massa non porttitor.</h4>
-                              <a href="javascript:void(0)" class="more-event"><i class="fas fa-ellipsis-h"></i></a>
-                            </div>
-                            <img src="./images/event-slider1.png" class="img-fluid" />
-                            <hr>
-                            <div class="d-flex justify-content-between align-items-center">
-                                <a href="javascript:void(0)" class="text-green font-15">Upcoming webinar</a>
-                                <p class="my-0 font11">Jul 1, 20218:00 pm EEST</p>
-                            </div>
-                        </div>
-                        <!--add text-->
-                      </div>
-                  </div> <!-- end card-->
-                </div> <!-- end wrapper -->
-                <div class="wrapper">
-                  <div class="card">
-                    <div class="cardImage cardIllustration">
-                        <div class="">
-                            <div class="d-flex justify-content-between">
-                              <h4 class="font14 mb-3 min-h-60 line-height-20 mr-2">Nunc scelerisque tincidunt elit. Vestibulum non mi ipsum. Cras pretium suscipit tellus sit amet aliquet. Vestibulum maximus lacinia massa non porttitor.</h4>
-                              <a href="javascript:void(0)" class="more-event"><i class="fas fa-ellipsis-h"></i></a>
-                            </div>
-                            <img src="./images/event-slider1.png" class="img-fluid" />
-                            <hr>
-                            <div class="d-flex justify-content-between align-items-center">
-                                <a href="javascript:void(0)" class="text-green font-15">Upcoming webinar</a>
-                                <p class="my-0 font11">Jul 1, 20218:00 pm EEST</p>
-                            </div>
-                        </div>
-                        <!--add text-->
-                      </div>
-                  </div> <!-- end card-->
-                </div> <!-- end wrapper -->
-              </div>
         </div>
     </div>
 
@@ -494,6 +442,7 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
     <script src="https://cdn.jsdelivr.net/jquery.slick/1.6.0/slick.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.5.0/Chart.min.js"></script>
     <script>
         // submenu js start
         $('.dropdown-menu a.dropdown-toggle').on('click', function (e) {
@@ -510,44 +459,38 @@
             return false;
         });
         // submenu js end
-        // slick slider js start
-        (function() {
-        var slideContainer = $('.slide-container');
-        slideContainer.slick({
-            arrows: true,
-            initialSlide:0,
-            centerMode: true,
-            centerPadding: '50px',
-            slidesToShow: 2,
-            swipeToSlide:true,
-            responsive: [
-            {
-                breakpoint: 1000,
-                settings: {
-                    arrows: false,
-                    slidesToShow: 2
-                }
-            },
-            {
-                breakpoint: 992,
-                settings: {
-                    arrows: false,
-                    slidesToShow: 1
-                }
-            },
-            {
-                breakpoint: 767,
-                settings: {
-                    arrows: false,
-                    slidesToShow: 1,
-                    centerMode: false,
-                }
-            }
-            ]
-        });
-        })();
-        // slick slider js end
+       
+        var xValues = [];
+var yValues = [];
+generateData("Math.sin(x)", 0, 10, 0.5);
+
+new Chart("myChart", {
+  type: "line",
+  data: {
+    labels: xValues,
+    datasets: [{
+      fill: false,
+      pointRadius: 2,
+      borderColor: "#00CCF2",
+      data: yValues
+    }]
+  },    
+  options: {
+    legend: {display: false},
+    title: {
+      display: true,
+      text: "Overall Performance",
+      fontSize: 20,
+      color: "#fff"
+    }
+  }
+});
+function generateData(value, i1, i2, step = 1) {
+  for (let x = i1; x <= i2; x += step) {
+    yValues.push(eval(value));
+    xValues.push(x);
+  }
+}
     </script>
 </body>
-
 </html>

@@ -249,107 +249,62 @@
         </div>
     </nav>
 
-    <div class="col-12 event-page mt-4">
+    <div class="col-12 event-page cyber-threat-map">
         <div class="row event-section">
-            <div class="col-lg-7 mb-4">
-                <div class="event-section-left">
-                    <h3>We Want to Meet With You</h3>
-                    <div class="position-relative">
-                        <img src="./images/event1.png" class="img-fluid" />
-                        <div class="event-title">
-                            Gartner Japan Security & Risk<br>
-                            Management Summit
-                        </div>
-                        <div class="event-user-images">
-                            <img src="./images/user1.png" class="user1" />
-                            <img src="./images/user2.png" class="user2" />
-                            <img src="./images/user3.png" />
-                        </div>
-                        <div class="event-btn">
-                            <a href="javascript:void(0)">Event</a>
-                        </div>
-                    </div>
-                    <h4 class="event-time mt-3">Oct 6 - 8 | Japan</h4>
-                </div>
-            </div>
-            <div class="col-lg-5">
-                <div class="mb-4 pb-2">
-                <div class="position-relative">
-                    <img src="./images/event2.png" class="img-fluid" />
-                    <div class="event-title event-title2">
-                        Gartner Japan Security & Risk<br>
-                        Management Summit
-                    </div>
-                    <div class="event-btn">
-                        <a href="javascript:void(0)">Event</a>
-                    </div>
-                </div>
-                <h4 class="event-time mt-3">Oct 13 - 16 | Dubai</h4>
-            </div>
-                <div class="row">
-                    <div class="col-md-6 mb-4">
-                        <div class="position-relative">
-                            <img src="./images/event3.png" class="img-fluid" />
-                            <div class="event-title">
-                                Interface
-                            </div>
-                            <div class="event-btn">
-                                <a href="javascript:void(0)">Event</a>
-                            </div>
-                        </div>
-                        <h4 class="event-time mt-3">Sep 20 - 21 | Germany</h4>
-                    </div>
-                    <div class="col-md-6 mb-4">
-                        <div class="position-relative">
-                            <img src="./images/event4.png" class="img-fluid" />
-                            <div class="event-title">
-                                3D
-                            </div>
-                            <div class="event-btn">
-                                <a href="javascript:void(0)">Event</a>
-                            </div>
-                        </div>
-                        <h4 class="event-time mt-3">Oct 6 - 8 | Japan</h4>
-                    </div>
-                </div>
-            </div>
+            <canvas id="myChart" style="width:100%;max-width:600px"></canvas>
         </div>
         <div class="container">
             <div class="row my-5">
-                <div class="col-md-4 mb-3">
-                    <div class="event-box">
-                        <p class="text-right mb-0">Oct 6 - 8</p>
-                        <div class="d-flex align-items-center">
-                            <img src="./images/event-clipboard.png" class="mr-3 event-img-bg">
-                            <div>
-                                <p class="mb-1 event-name">Event_1</p>
-                                <p class="mb-0 event-country-name">Japan</p>
+                <div class="col-md-3 mb-3">
+                    <div class="event-box pb-3">
+                        <div class="d-flex align-items-center justify-content-between">
+                           <img src="./images/close-pink-icon.png">
+                            <div class="">
+                                <p class="my-0 text-gray">Events</p>
+                                <p class="my-0 text-white font20 text-right font24">0</p>
                             </div>
                         </div>
+                        <hr>
+                        <p class="font12 mb-0"><img src="./images/Icon metro-power.png" class="mr-1" width="15" /> Critical Severity Event Count</p>
                     </div>
                 </div>
-                <div class="col-md-4 mb-3">
-                    <div class="event-box">
-                        <p class="text-right mb-0">Oct 6 - 8</p>
-                        <div class="d-flex align-items-center">
-                            <img src="./images/event-clipboard.png" class="mr-3 event-img-bg">
-                            <div>
-                                <p class="mb-1 event-name">Event_1</p>
-                                <p class="mb-0 event-country-name">Usa</p>
+                <div class="col-md-3 mb-3">
+                    <div class="event-box pb-3">
+                        <div class="d-flex align-items-center justify-content-between">
+                            <img src="./images/dark-pink.png">
+                            <div class="">
+                                <p class="my-0 text-gray">Followers</p>
+                                <p class="my-0 text-white font20 text-right font24">+45k</p>
                             </div>
                         </div>
+                        <hr>
+                        <p class="font12 mb-0"><img src="./images/Icon metro-power.png" class="mr-1" width="15" /> Critical Severity Event Count</p>
                     </div>
                 </div>
-                <div class="col-md-4 mb-3">
-                    <div class="event-box">
-                        <p class="text-right mb-0">Oct 6 - 8</p>
-                        <div class="d-flex align-items-center">
-                            <img src="./images/event-clipboard.png" class="mr-3 event-img-bg">
-                            <div>
-                                <p class="mb-1 event-name">Event_1</p>
-                                <p class="mb-0 event-country-name">China</p>
+                <div class="col-md-3 mb-3">
+                    <div class="event-box pb-3">
+                        <div class="d-flex align-items-center justify-content-between">
+                            <img src="./images/red-check-icon.png">
+                            <div class="">
+                                <p class="my-0 text-gray">User</p>
+                                <p class="my-0 text-white font20 text-right font24">1200</p>
                             </div>
                         </div>
+                        <hr>
+                        <p class="font12 mb-0"><img src="./images/Icon metro-power.png" class="mr-1" width="15" /> Critical Severity Event Count</p>
+                    </div>
+                </div>
+                <div class="col-md-3 mb-3">
+                    <div class="event-box pb-3">
+                        <div class="d-flex align-items-center justify-content-between">
+                            <img src="./images/blue-check-icon.png">
+                            <div class="">
+                                <p class="my-0 text-gray">Events</p>
+                                <p class="my-0 text-white font20 text-right font24">0</p>
+                            </div>
+                        </div>
+                        <hr>
+                        <p class="font12 mb-0"><img src="./images/Icon metro-power.png" class="mr-1" width="15" /> Critical Severity Event Count</p>
                     </div>
                 </div>
             </div>
@@ -494,6 +449,7 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
     <script src="https://cdn.jsdelivr.net/jquery.slick/1.6.0/slick.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.5.0/Chart.min.js"></script>
     <script>
         // submenu js start
         $('.dropdown-menu a.dropdown-toggle').on('click', function (e) {
@@ -547,6 +503,38 @@
         });
         })();
         // slick slider js end
+
+        var xValues = [];
+var yValues = [];
+generateData("Math.sin(x)", 0, 10, 0.5);
+
+new Chart("myChart", {
+  type: "line",
+  data: {
+    labels: xValues,
+    datasets: [{
+      fill: false,
+      pointRadius: 2,
+      borderColor: "#00CCF2",
+      data: yValues
+    }]
+  },    
+  options: {
+    legend: {display: false},
+    title: {
+      display: true,
+      text: "Overall Performance",
+      fontSize: 20,
+      color: "#fff"
+    }
+  }
+});
+function generateData(value, i1, i2, step = 1) {
+  for (let x = i1; x <= i2; x += step) {
+    yValues.push(eval(value));
+    xValues.push(x);
+  }
+}
     </script>
 </body>
 

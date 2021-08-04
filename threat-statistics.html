@@ -10,8 +10,13 @@
         integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous" />
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/jquery.slick/1.6.0/slick-theme.css">
+    <link href="https://cdn.anychart.com/releases/v8/css/anychart-ui.min.css" type="text/css" rel="stylesheet">
+    <link href="https://cdn.anychart.com/releases/v8/fonts/css/anychart-font.min.css" type="text/css" rel="stylesheet">
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/responsive.css">
+    <script src="https://cdn.anychart.com/releases/v8/js/anychart-base.min.js"></script>
+    <script src="https://cdn.anychart.com/releases/v8/js/anychart-ui.min.js"></script>
+    <script src="https://cdn.anychart.com/releases/v8/js/anychart-exports.min.js"></script>
 </head>
 
 <body class="black-bg">
@@ -249,189 +254,64 @@
         </div>
     </nav>
 
-    <div class="col-12 event-page mt-4">
+    <div class="col-12 event-page cyber-threat-map">
         <div class="row event-section">
-            <div class="col-lg-7 mb-4">
-                <div class="event-section-left">
-                    <h3>We Want to Meet With You</h3>
-                    <div class="position-relative">
-                        <img src="./images/event1.png" class="img-fluid" />
-                        <div class="event-title">
-                            Gartner Japan Security & Risk<br>
-                            Management Summit
-                        </div>
-                        <div class="event-user-images">
-                            <img src="./images/user1.png" class="user1" />
-                            <img src="./images/user2.png" class="user2" />
-                            <img src="./images/user3.png" />
-                        </div>
-                        <div class="event-btn">
-                            <a href="javascript:void(0)">Event</a>
-                        </div>
-                    </div>
-                    <h4 class="event-time mt-3">Oct 6 - 8 | Japan</h4>
-                </div>
-            </div>
-            <div class="col-lg-5">
-                <div class="mb-4 pb-2">
-                <div class="position-relative">
-                    <img src="./images/event2.png" class="img-fluid" />
-                    <div class="event-title event-title2">
-                        Gartner Japan Security & Risk<br>
-                        Management Summit
-                    </div>
-                    <div class="event-btn">
-                        <a href="javascript:void(0)">Event</a>
-                    </div>
-                </div>
-                <h4 class="event-time mt-3">Oct 13 - 16 | Dubai</h4>
-            </div>
-                <div class="row">
-                    <div class="col-md-6 mb-4">
-                        <div class="position-relative">
-                            <img src="./images/event3.png" class="img-fluid" />
-                            <div class="event-title">
-                                Interface
-                            </div>
-                            <div class="event-btn">
-                                <a href="javascript:void(0)">Event</a>
-                            </div>
-                        </div>
-                        <h4 class="event-time mt-3">Sep 20 - 21 | Germany</h4>
-                    </div>
-                    <div class="col-md-6 mb-4">
-                        <div class="position-relative">
-                            <img src="./images/event4.png" class="img-fluid" />
-                            <div class="event-title">
-                                3D
-                            </div>
-                            <div class="event-btn">
-                                <a href="javascript:void(0)">Event</a>
-                            </div>
-                        </div>
-                        <h4 class="event-time mt-3">Oct 6 - 8 | Japan</h4>
-                    </div>
-                </div>
-            </div>
+            <h3 class="font20">Overall Performance</h3>
+            <div id="container"></div>
         </div>
         <div class="container">
             <div class="row my-5">
-                <div class="col-md-4 mb-3">
-                    <div class="event-box">
-                        <p class="text-right mb-0">Oct 6 - 8</p>
-                        <div class="d-flex align-items-center">
-                            <img src="./images/event-clipboard.png" class="mr-3 event-img-bg">
-                            <div>
-                                <p class="mb-1 event-name">Event_1</p>
-                                <p class="mb-0 event-country-name">Japan</p>
-                            </div>
-                        </div>
+                <div class="col-md-6 mb-3">
+                    <div class="event-box pb-3">
+                        <p class="mt-0 font20">Stacked Area Chart</p>
                     </div>
                 </div>
-                <div class="col-md-4 mb-3">
-                    <div class="event-box">
-                        <p class="text-right mb-0">Oct 6 - 8</p>
-                        <div class="d-flex align-items-center">
-                            <img src="./images/event-clipboard.png" class="mr-3 event-img-bg">
-                            <div>
-                                <p class="mb-1 event-name">Event_1</p>
-                                <p class="mb-0 event-country-name">Usa</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-4 mb-3">
-                    <div class="event-box">
-                        <p class="text-right mb-0">Oct 6 - 8</p>
-                        <div class="d-flex align-items-center">
-                            <img src="./images/event-clipboard.png" class="mr-3 event-img-bg">
-                            <div>
-                                <p class="mb-1 event-name">Event_1</p>
-                                <p class="mb-0 event-country-name">China</p>
-                            </div>
-                        </div>
+                <div class="col-md-6 mb-3">
+                    <div class="event-box pb-3">
+                        <p class="mt-0 font20">Health</p>
                     </div>
                 </div>
             </div>
 
-            <div class="slide-container my-5 pb-3">
-                <div class="wrapper">
-                  <div class="card">
-                    <div class="cardImage cardIllustration">
-                      <div class="">
-                          <div class="d-flex justify-content-between">
-                            <h4 class="font14 mb-3 min-h-60 line-height-20 mr-2">Nunc scelerisque tincidunt elit. Vestibulum non mi ipsum. Cras pretium suscipit tellus sit amet aliquet. Vestibulum maximus lacinia massa non porttitor.</h4>
-                            <a href="javascript:void(0)" class="more-event"><i class="fas fa-ellipsis-h"></i></a>
-                          </div>
-                          <img src="./images/event-slider1.png" class="img-fluid" />
-                          <hr>
-                          <div class="d-flex justify-content-between align-items-center">
-                              <a href="javascript:void(0)" class="text-green font-15">Upcoming webinar</a>
-                              <p class="my-0 font11">Jul 1, 20218:00 pm EEST</p>
-                          </div>
-                      </div>
-                      <!--add text-->
-                    </div>
-                  </div> <!-- end card-->
-                </div> <!-- end wrapper -->
-                <div class="wrapper">
-                  <div class="card">
-                    <div class="cardImage cardIllustration">
-                        <div class="">
-                            <div class="d-flex justify-content-between">
-                              <h4 class="font14 mb-3 min-h-60 line-height-20 mr-2">Working too DAM hard on your Guardium installation? Imperva can help (APJ)</h4>
-                              <a href="javascript:void(0)" class="more-event"><i class="fas fa-ellipsis-h"></i></a>
-                            </div>
-                            <img src="./images/event-slider2.png" class="img-fluid" />
-                            <hr>
-                            <div class="d-flex justify-content-between align-items-center">
-                                <a href="javascript:void(0)" class="text-green font-15">Upcoming webinar</a>
-                                <p class="my-0 font11">Jul 1, 20218:00 pm EEST</p>
-                            </div>
-                        </div>
-                        <!--add text-->
-                      </div>
-                  </div> <!-- end card-->
-                </div> <!-- end wrapper -->
-                <div class="wrapper">
-                  <div class="card">
-                    <div class="cardImage cardIllustration">
-                        <div class="">
-                            <div class="d-flex justify-content-between">
-                              <h4 class="font14 mb-3 min-h-60 line-height-20 mr-2">Nunc scelerisque tincidunt elit. Vestibulum non mi ipsum. Cras pretium suscipit tellus sit amet aliquet. Vestibulum maximus lacinia massa non porttitor.</h4>
-                              <a href="javascript:void(0)" class="more-event"><i class="fas fa-ellipsis-h"></i></a>
-                            </div>
-                            <img src="./images/event-slider1.png" class="img-fluid" />
-                            <hr>
-                            <div class="d-flex justify-content-between align-items-center">
-                                <a href="javascript:void(0)" class="text-green font-15">Upcoming webinar</a>
-                                <p class="my-0 font11">Jul 1, 20218:00 pm EEST</p>
-                            </div>
-                        </div>
-                        <!--add text-->
-                      </div>
-                  </div> <!-- end card-->
-                </div> <!-- end wrapper -->
-                <div class="wrapper">
-                  <div class="card">
-                    <div class="cardImage cardIllustration">
-                        <div class="">
-                            <div class="d-flex justify-content-between">
-                              <h4 class="font14 mb-3 min-h-60 line-height-20 mr-2">Nunc scelerisque tincidunt elit. Vestibulum non mi ipsum. Cras pretium suscipit tellus sit amet aliquet. Vestibulum maximus lacinia massa non porttitor.</h4>
-                              <a href="javascript:void(0)" class="more-event"><i class="fas fa-ellipsis-h"></i></a>
-                            </div>
-                            <img src="./images/event-slider1.png" class="img-fluid" />
-                            <hr>
-                            <div class="d-flex justify-content-between align-items-center">
-                                <a href="javascript:void(0)" class="text-green font-15">Upcoming webinar</a>
-                                <p class="my-0 font11">Jul 1, 20218:00 pm EEST</p>
-                            </div>
-                        </div>
-                        <!--add text-->
-                      </div>
-                  </div> <!-- end card-->
-                </div> <!-- end wrapper -->
-              </div>
+            <div class="border-radius-7 event-section pt-3 pb-2 mb-5">
+                <h4 class="text-white mt-0 mb-3">View</h4>
+                <div class="table-responsive">
+                <table class="table text-center">
+                    <thead>
+                      <tr>
+                        <th>SOURCE COUNTRY</th>
+                        <th>TARGET COUNTRY</th>
+                        <th>INDUSTRY</th>
+                        <th>ATTACK</th>
+                        <th>CLIENT</th>
+                      </tr>
+                    </thead>
+                    <tbody>
+                      <tr>
+                        <td>China</td>
+                        <td>United States</td>
+                        <td>Retail</td>
+                        <td>Automated Threat</td>
+                        <td>Bot</td>
+                      </tr>
+                      <tr>
+                        <td>China</td>
+                        <td>United States</td>
+                        <td>Retail</td>
+                        <td>Automated Threat</td>
+                        <td>Bot</td>
+                      </tr>
+                      <tr>
+                        <td>China</td>
+                        <td>United States</td>
+                        <td>Retail</td>
+                        <td>Automated Threat</td>
+                        <td>Bot</td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </div>
+            </div>
         </div>
     </div>
 
@@ -494,6 +374,7 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
     <script src="https://cdn.jsdelivr.net/jquery.slick/1.6.0/slick.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.5.0/Chart.min.js"></script>
     <script>
         // submenu js start
         $('.dropdown-menu a.dropdown-toggle').on('click', function (e) {
@@ -510,44 +391,62 @@
             return false;
         });
         // submenu js end
-        // slick slider js start
-        (function() {
-        var slideContainer = $('.slide-container');
-        slideContainer.slick({
-            arrows: true,
-            initialSlide:0,
-            centerMode: true,
-            centerPadding: '50px',
-            slidesToShow: 2,
-            swipeToSlide:true,
-            responsive: [
-            {
-                breakpoint: 1000,
-                settings: {
-                    arrows: false,
-                    slidesToShow: 2
-                }
-            },
-            {
-                breakpoint: 992,
-                settings: {
-                    arrows: false,
-                    slidesToShow: 1
-                }
-            },
-            {
-                breakpoint: 767,
-                settings: {
-                    arrows: false,
-                    slidesToShow: 1,
-                    centerMode: false,
-                }
-            }
-            ]
-        });
-        })();
-        // slick slider js end
+        anychart.onDocumentReady(function () {
+      // create data set on our data
+      var chartData = {
+        title: 'Top 3 Products with Region Sales Data',
+        header: ['#', 'Florida', 'Texas', 'Arizona', 'Nevada'],
+        rows: [
+          ['Nail polish', 6814, 3054, 4376, 4229],
+          ['Eyebrow pencil', 7012, 5067, 8987, 3932],
+          ['Lipstick', 8814, 9054, 4376, 9256]
+        ]
+      };
+
+      // create column chart
+      var chart = anychart.column();
+
+      // set chart data
+      chart.data(chartData);
+
+      // turn on chart animation
+      chart.animation(true);
+
+      chart.yAxis().labels().format('${%Value}{groupsSeparator: }');
+
+      // set titles for Y-axis
+      chart.yAxis().title('Revenue');
+
+      chart
+        .labels()
+        .enabled(true)
+        .position('center-top')
+        .anchor('center-bottom')
+        .format('${%Value}{groupsSeparator: }');
+      chart.hovered().labels(false);
+
+      // turn on legend and tune it
+      chart.legend().enabled(true).fontSize(13).padding([0, 0, 20, 0]);
+
+      // interactivity settings and tooltip position
+      chart.interactivity().hoverMode('single');
+
+      chart
+        .tooltip()
+        .positionMode('point')
+        .position('center-top')
+        .anchor('center-bottom')
+        .offsetX(0)
+        .offsetY(5)
+        .titleFormat('{%X}')
+        .format('{%SeriesName} : ${%Value}{groupsSeparator: }');
+
+      // set container id for the chart
+      chart.container('container');
+
+      // initiate chart drawing
+      chart.draw();
+    });
     </script>
 </body>
-
 </html>
