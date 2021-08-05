@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="510" height="179.997" viewBox="0 0 510 179.997">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" y1="-1.279" x2="0.5" y2="0.736" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#2cd889"/>
+      <stop offset="1" stop-color="#2cd889" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g id="Trafic_Graphs_6" data-name="Trafic Graphs_6" transform="translate(-691 -896)">
+    <text id="_48" data-name="48" transform="translate(691 934)" fill="#2cd889" font-size="35" font-family="ArialMT, Arial" letter-spacing="0.05em"><tspan x="0" y="0">48</tspan></text>
+    <text id="Automated_Threat" data-name="Automated Threat" transform="translate(692 963)" fill="#646d82" font-size="17" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" letter-spacing="0.1em"><tspan x="0" y="0">AUTOMATED THREAT</tspan></text>
+    <text id="_" data-name="" transform="translate(1156 927)" fill="#22ce8b" font-size="29" font-family="SegoeUI, Segoe UI"><tspan x="-18.72" y="0"></tspan></text>
+    <text id="_91_" data-name="91%" transform="translate(1201 924)" fill="#22ce8b" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="-37.93" y="0">91%</tspan></text>
+    <path id="Line" d="M1015.349,368.754s18.358,5.491,26.516,2.059c0,0,18.7-.686,28.556-26.768,0,0,8.849-25.389,24.477-8.237,0,0,16.58,38.39,32.439-19.906,0,0,20.285-41.713,38.952-4.905,0,0,24.477,73.977,46.914,49.267,0,0,20.25-26.769,53.033,12.355,0,0,20.545,20.879,34.676-6.178,0,0,3.86-22.85,18.357-35.006,0,0,18.187-11.882,28.556,32.947,0,0,9.54,20.086,18.469-35.546,0,0,10.449-30.208,30.605,10.27a79.645,79.645,0,0,0,18.842,28.391" transform="translate(-266.119 694.653)" stroke="#2cd889" stroke-width="2" stroke-dasharray="4" fill="url(#linear-gradient)"/>
+  </g>
+</svg>

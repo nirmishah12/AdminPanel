@@ -38,6 +38,12 @@ html, body {
     background-color: #44ad96;
     border-color: #44ad96;
 }
+.min-h-326 {
+    min-height: 326px;
+}
+.min-h-447 {
+    min-height: 447px;
+}
 .text-green, .text-green:hover {
     color: #36a28b;
 }
@@ -49,6 +55,9 @@ html, body {
 }
 .text-dark-gray {
     color: #646D82;
+}
+.text-yellow, .text-yellow:hover {
+    color: #FECB2E;
 }
 .black-bg {
     background: #1A1A28;

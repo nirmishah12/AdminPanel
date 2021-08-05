@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1508.26" height="302.279" viewBox="0 0 1508.26 302.279">
+  <g id="Threat_Statistics_1" data-name="Threat Statistics_1" transform="translate(-224.16 -360.721)">
+    <g id="Chart" transform="translate(230.16 366.721)">
+      <g id="m1">
+        <rect id="Rectangle_39" data-name="Rectangle 39" width="47.043" height="73.636" transform="translate(0 173.802)" fill="#37a28c"/>
+        <rect id="Rectangle_25" data-name="Rectangle 25" width="47.043" height="73.636" transform="translate(0 173.802)" fill="#37a28c"/>
+        <rect id="Rectangle_40" data-name="Rectangle 40" width="47.043" height="196.364" transform="translate(94.087 51.074)" fill="#37a28c"/>
+        <rect id="Rectangle_26" data-name="Rectangle 26" width="47.043" height="196.364" transform="translate(94.087 51.074)" fill="#37a28c"/>
+        <rect id="Rectangle_41" data-name="Rectangle 41" width="47.043" height="171.818" transform="translate(263.494 75.62)" fill="#37a28c"/>
+        <rect id="Rectangle_27" data-name="Rectangle 27" width="47.043" height="171.818" transform="translate(263.494 75.62)" fill="#37a28c"/>
+        <g id="Group_April" data-name="Group April" transform="translate(386.737 85.568)">
+          <rect id="Rectangle_42" data-name="Rectangle 42" width="47.043" height="73.636" transform="translate(6.808 88.234)" fill="#37a28c"/>
+          <rect id="Rectangle_28" data-name="Rectangle 28" width="47.043" height="73.636" transform="translate(6.808 88.234)" fill="#37a28c"/>
+          <g id="Group_April-2" data-name="Group April" opacity="0">
+            <g id="Group_80" data-name="Group 80">
+              <path id="Union_1" data-name="Union 1" d="M28.352,68.6,22.437,60H10A10,10,0,0,1,0,50V10A10,10,0,0,1,10,0H50A10,10,0,0,1,60,10V50A10,10,0,0,1,50,60H37.562l-5.915,8.6a2,2,0,0,1-3.3,0Z" fill="#37a28c"/>
+            </g>
+            <text id="_30_" data-name="30%" transform="translate(16.102 26.206)" fill="#37a28c" font-size="16" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="0" y="0">30%</tspan></text>
+            <text id="April" transform="translate(14.102 49.206)" fill="#37a28c" font-size="14" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="0">April</tspan></text>
+          </g>
+        </g>
+        <rect id="Rectangle_43" data-name="Rectangle 43" width="47.043" height="162" transform="translate(526.988 85.438)" fill="#37a28c"/>
+        <rect id="Rectangle_29" data-name="Rectangle 29" width="47.043" height="162" transform="translate(526.988 85.438)" fill="#37a28c"/>
+        <rect id="Rectangle_44" data-name="Rectangle 44" width="47.043" height="222.635" transform="translate(658.735 24.803)" fill="#37a28c"/>
+        <rect id="Rectangle_30" data-name="Rectangle 30" width="47.043" height="222.635" transform="translate(658.735 24.803)" fill="#37a28c"/>
+        <rect id="Rectangle_45" data-name="Rectangle 45" width="47.043" height="147.273" transform="translate(790.482 100.165)" fill="#37a28c"/>
+        <rect id="Rectangle_31" data-name="Rectangle 31" width="47.043" height="147.273" transform="translate(790.482 100.166)" fill="#37a28c"/>
+        <rect id="Rectangle_46" data-name="Rectangle 46" width="47.043" height="220.909" transform="translate(922.229 26.529)" fill="#37a28c"/>
+        <rect id="Rectangle_32" data-name="Rectangle 32" width="47.043" height="220.909" transform="translate(922.229 26.529)" fill="#37a28c"/>
+        <rect id="Rectangle_47" data-name="Rectangle 47" width="47.043" height="213.114" transform="translate(1053.976 34.324)" fill="#37a28c"/>
+        <rect id="Rectangle_33" data-name="Rectangle 33" width="47.043" height="213.114" transform="translate(1053.976 34.324)" fill="#37a28c"/>
+        <rect id="Rectangle_48" data-name="Rectangle 48" width="47.043" height="222.635" transform="translate(1185.723 24.803)" fill="#37a28c"/>
+        <rect id="Rectangle_34" data-name="Rectangle 34" width="47.043" height="222.635" transform="translate(1185.723 24.803)" fill="#37a28c"/>
+        <rect id="Rectangle_49" data-name="Rectangle 49" width="47.043" height="216" transform="translate(1355.13 31.438)" fill="#37a28c"/>
+        <rect id="Rectangle_35" data-name="Rectangle 35" width="47.043" height="216" transform="translate(1355.13 31.438)" fill="#37a28c"/>
+        <rect id="Rectangle_50" data-name="Rectangle 50" width="47.043" height="247.438" transform="translate(1449.217)" fill="#37a28c"/>
+        <rect id="Rectangle_36" data-name="Rectangle 36" width="47.043" height="247.438" transform="translate(1449.217)" fill="#37a28c"/>
+      </g>
+    </g>
+    <text id="Feb" transform="translate(343.723 657)" fill="#fff" font-size="17" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="-15.385" y="0">Feb</tspan></text>
+    <text id="Mar" transform="translate(523.137 657)" fill="#fff" font-size="17" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="-16.524" y="0">Mar</tspan></text>
+    <text id="Apr" transform="translate(645.227 657)" fill="#fff" font-size="17" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="-14.952" y="0">Apr</tspan></text>
+    <text id="May" transform="translate(778.355 657)" fill="#fff" font-size="17" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="-18.207" y="0">May</tspan></text>
+    <text id="Jun" transform="translate(911.805 657)" fill="#fff" font-size="17" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="-15.827" y="0">Jun</tspan></text>
+    <text id="Jul" transform="translate(1045.051 657)" fill="#fff" font-size="17" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="-12.555" y="0">Jul</tspan></text>
+    <text id="Aug" transform="translate(1178.609 657)" fill="#fff" font-size="17" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="-17.204" y="0">Aug</tspan></text>
+    <text id="Sep" transform="translate(1311.813 657)" fill="#fff" font-size="17" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="-16.142" y="0">Sep</tspan></text>
+    <text id="Oct" transform="translate(1433.512 657)" fill="#fff" font-size="17" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="-14.926" y="0">Oct</tspan></text>
+    <text id="Nov" transform="translate(1613.125 657)" fill="#fff" font-size="17" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="-16.448" y="0">Nov</tspan></text>
+    <text id="Dec" transform="translate(1711 657)" fill="#fff" font-size="17" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="-16.371" y="0">Dec</tspan></text>
+    <text id="Jan" transform="translate(245 657)" fill="#fff" font-size="17" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="-16.074" y="0">Jan</tspan></text>
+  </g>
+</svg>

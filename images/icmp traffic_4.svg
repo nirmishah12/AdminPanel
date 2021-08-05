@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="52" viewBox="0 0 320 52">
+  <g id="icmp_traffic_4" data-name="icmp traffic_4" transform="translate(-1132 -818)">
+    <text id="_2.47h" data-name="2.47h" transform="translate(1184 859)" fill="#fff" font-size="30" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="0">2.47h</tspan></text>
+    <g id="tag" transform="translate(1132 760.925)">
+      <path id="Path_82" data-name="Path 82" d="M35.461,85.454l-6.182-8.432a5.2,5.2,0,0,0-3.835-1.947H2.9a2.907,2.907,0,0,0-2.9,2.9v19.2a2.907,2.907,0,0,0,2.9,2.9H25.444a5.174,5.174,0,0,0,3.835-1.947L35.461,89.7A3.761,3.761,0,0,0,35.461,85.454Zm-1.614,3.072-6.182,8.432a3.246,3.246,0,0,1-2.228,1.125H2.9a.907.907,0,0,1-.9-.9v-19.2a.907.907,0,0,1,.9-.9H25.444A3.292,3.292,0,0,1,27.673,78.2l6.182,8.432A1.8,1.8,0,0,1,33.847,88.526Z" transform="translate(0 0)" fill="#00ccf2"/>
+    </g>
+    <g id="Group_74" data-name="Group 74" transform="translate(216 -130)">
+      <rect id="Rectangle_17" data-name="Rectangle 17" width="14" height="49" transform="translate(1109 948)" fill="#f5fbff"/>
+      <rect id="Rectangle_18" data-name="Rectangle 18" width="14" height="34" transform="translate(1127 963)" fill="#f5fbff"/>
+      <rect id="Rectangle_19" data-name="Rectangle 19" width="14" height="41" transform="translate(1146 956)" fill="#f5fbff"/>
+      <rect id="Rectangle_20" data-name="Rectangle 20" width="14" height="21" transform="translate(1165 976)" fill="#f5fbff"/>
+      <rect id="Rectangle_21" data-name="Rectangle 21" width="14" height="31" transform="translate(1184 966)" fill="#00ccf2"/>
+      <rect id="Rectangle_23" data-name="Rectangle 23" width="14" height="31" transform="translate(1222 966)" fill="#f5fbff"/>
+      <rect id="Rectangle_22" data-name="Rectangle 22" width="14" height="49" transform="translate(1203 948)" fill="#f5fbff"/>
+    </g>
+  </g>
+</svg>

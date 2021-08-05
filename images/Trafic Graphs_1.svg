@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1669.485" height="540" viewBox="0 0 1669.485 540">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" y1="-1.318" x2="0.5" y2="0.661" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#37a28c"/>
+      <stop offset="1" stop-color="#2cd889" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g id="Trafic_Graphs_1" data-name="Trafic Graphs_1" transform="translate(-106 -224)">
+    <text id="OWASP" transform="translate(931 261)" fill="#646d82" font-size="21" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" letter-spacing="0.1em"><tspan x="-84.125" y="0">OWASP</tspan></text>
+    <text id="DDoS" transform="translate(1091 261)" fill="#646d82" font-size="21" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" letter-spacing="0.1em"><tspan x="-64.963" y="0">DDOS</tspan></text>
+    <rect id="BG" width="19" height="19" rx="3" transform="translate(810 244)" fill="#fecd54"/>
+    <rect id="BG-2" data-name="BG" width="19" height="19" rx="3" transform="translate(970 244)" fill="#f7617d"/>
+    <text id="Automated_Threat" data-name="Automated Threat" transform="translate(771 261)" fill="#646d82" font-size="21" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" letter-spacing="0.1em"><tspan x="-245.878" y="0">AUTOMATED THREAT</tspan></text>
+    <rect id="BG-3" data-name="BG" width="20" height="19" rx="3" transform="translate(487 244)" fill="#37a28c"/>
+    <g id="Sort_by" data-name="Sort by" transform="translate(1557.457 224)">
+      <g id="BG-4" data-name="BG" transform="translate(-0.457)" fill="rgba(34,206,139,0)" stroke="rgba(166,177,194,0.3)" stroke-linejoin="round" stroke-width="1">
+        <rect width="203" height="61" rx="19" stroke="none"/>
+        <rect x="0.5" y="0.5" width="202" height="60" rx="18.5" fill="none"/>
+      </g>
+      <text id="Month" transform="translate(34.543 36)" fill="#646d82" font-size="19" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Month</tspan></text>
+      <text id="_" data-name="" transform="translate(176.543 38)" fill="#646d82" font-size="30" font-family="SegoeUI, Segoe UI"><tspan x="-19.365" y="0"></tspan></text>
+    </g>
+    <text id="JAN" transform="translate(194 758)" fill="#a6b1c2" font-size="19" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600" letter-spacing="0.05em"><tspan x="-18.159" y="0">JAN</tspan></text>
+    <text id="FEB" transform="translate(364 758)" fill="#a6b1c2" font-size="19" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600" letter-spacing="0.05em"><tspan x="-16.378" y="0">FEB</tspan></text>
+    <text id="MAR" transform="translate(538 758)" fill="#a6b1c2" font-size="19" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600" letter-spacing="0.05em"><tspan x="-22.023" y="0">MAR</tspan></text>
+    <text id="APR" transform="translate(715 758)" fill="#a6b1c2" font-size="19" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600" letter-spacing="0.05em"><tspan x="-18.795" y="0">APR</tspan></text>
+    <text id="MAY" transform="translate(891 758)" fill="#a6b1c2" font-size="19" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600" letter-spacing="0.05em"><tspan x="-20.873" y="0">MAY</tspan></text>
+    <text id="JUN" transform="translate(1067 758)" fill="#a6b1c2" font-size="19" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600" letter-spacing="0.05em"><tspan x="-18.684" y="0">JUN</tspan></text>
+    <text id="JUL" transform="translate(1238 758)" fill="#a6b1c2" font-size="19" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600" letter-spacing="0.05em"><tspan x="-16.04" y="0">JUL</tspan></text>
+    <text id="AUG" transform="translate(1410 758)" fill="#a6b1c2" font-size="19" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600" letter-spacing="0.05em"><tspan x="-20.488" y="0">AUG</tspan></text>
+    <text id="SEP" transform="translate(1583 759)" fill="#a6b1c2" font-size="20" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600" letter-spacing="0.05em"><tspan x="-17.465" y="0">SEP</tspan></text>
+    <text id="OCT" transform="translate(1755 758)" fill="#a6b1c2" font-size="19" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600" letter-spacing="0.05em"><tspan x="-19.273" y="0">OCT</tspan></text>
+    <path id="Shape_01" d="M583.028,745.112l83.45-81.816s42.614-54.082,99.431-1.387c0,0,53.266,56.162,126.063,0,0,0,68.359-56.162,108.308-65.176,0,0,81.675-22.881,143.819,18.027l74.573,44.375s59.481,43.682,142.044-4.16c0,0,44.388-23.574,88.777-42.988,0,0,80.787-45.068,118.962-20.8,0,0,38.174,15.254,65.7,77.656,0,0,13.316,32.588,42.613,45.762,0,0,30.184,21.494,71.022-19.414l51.491-70.722s43.5-55.469,83.451-9.707c0,0,32.847,33.974,47.939,51.308,0,0,24.858,38.135,71.022-6.934l51.491-37.441s33.735-20.107,65.695,11.094l55.042,61.016" transform="translate(-399.914 -124.367)" stroke="#37a28c" stroke-width="4" stroke-dasharray="4" fill="url(#linear-gradient)"/>
+    <path id="Shape_02" d="M583.906,641.55s30.221,34.668,53.332,58.242c0,0,28.443,40.215,83.553-8.32l49.776-33.281s32-25.654,64,18.027c0,0,34.666,42.295,48,47.148,0,0,34.665,35.361,69.331-19.414,0,0,43.554-61.709,51.554-72.109,0,0,54.221-58.242,103.108,11.094,0,0,32.888,70.723,65.775,104,0,0,47.109,55.469,108.441,0,0,0,48-34.668,81.775-65.176,0,0,86.219-64.482,168.883-13.867,0,0,86.22,58.242,99.553,58.242,0,0,77.331,45.068,175.994-20.8,0,0,36.443-31.895,85.33-52.7,0,0,57.776-28.427,92.441,20.8,0,0,52.443,82.51,126.218-6.933,0,0,31.11-30.508,56.887-66.562" transform="translate(-399.404 -115.101)" fill="none" stroke="#f7617d" stroke-linecap="round" stroke-width="4" stroke-dasharray="0 8"/>
+    <path id="Shape_02-2" data-name="Shape_02" d="M2167.855,648.823s-30.222,40.729-53.332,68.425c0,0-28.443,47.245-83.553-9.775l-49.776-39.1s-32-30.139-64,21.179c0,0-34.665,49.689-48,55.391,0,0-34.665,41.543-69.331-22.808,0,0-43.554-72.5-51.554-84.716,0,0-54.221-68.424-103.108,13.033,0,0-32.888,83.087-65.775,122.187,0,0-47.109,65.166-108.441,0,0,0-48-40.729-81.775-76.57,0,0-86.219-75.756-168.884-16.292,0,0-86.219,68.424-99.552,68.424,0,0-77.331,52.948-175.994-24.437,0,0-36.444-37.471-85.331-61.908,0,0-57.776-33.4-92.441,24.437,0,0-52.443,96.935-126.218-8.146,0,0-31.11-35.842-56.887-78.2" transform="translate(-399.404 -191.008)" fill="none" stroke="#fecd54" stroke-linecap="round" stroke-width="4" stroke-dasharray="0 8"/>
+    <g id="Circle_BG" data-name="Circle BG" transform="translate(1051.724 476.674)" fill="#4ca07a" stroke="#fff" stroke-linejoin="round" stroke-width="3">
+      <circle cx="9.046" cy="9.046" r="9.046" stroke="none"/>
+      <circle cx="9.046" cy="9.046" r="10.546" fill="none"/>
+    </g>
+    <g id="Circle_BG-2" data-name="Circle BG" transform="translate(1051.724 524.909)" fill="#f7617d" stroke="#fff" stroke-linejoin="round" stroke-width="3">
+      <circle cx="9.046" cy="9.046" r="9.046" stroke="none"/>
+      <circle cx="9.046" cy="9.046" r="10.546" fill="none"/>
+    </g>
+    <g id="Circle_BG-3" data-name="Circle BG" transform="translate(1051.724 566.909)" fill="#fecd54" stroke="#fff" stroke-linejoin="round" stroke-width="3">
+      <circle cx="9.046" cy="9.046" r="9.046" stroke="none"/>
+      <circle cx="9.046" cy="9.046" r="10.546" fill="none"/>
+    </g>
+    <g id="Price" transform="translate(107.038 341.475)">
+      <text id="_0" data-name="0" transform="translate(44.962 394.525)" fill="#a6b1c2" font-size="19" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="-10.548" y="0">0</tspan></text>
+      <text id="_500" data-name="500" transform="translate(43.962 301.525)" fill="#a6b1c2" font-size="20" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="-33.311" y="0">500</tspan></text>
+      <text id="_1000" data-name="1000" transform="translate(41.962 207.525)" fill="#a6b1c2" font-size="19" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="-39.29" y="0">1000</tspan></text>
+      <text id="_1500" data-name="1500" transform="translate(41.962 114.525)" fill="#a6b1c2" font-size="19" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="-39.29" y="0">1500</tspan></text>
+      <text id="_2000" data-name="2000" transform="translate(41.962 20.525)" fill="#a6b1c2" font-size="19" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="-42.193" y="0">2000</tspan></text>
+    </g>
+    <g id="Line" transform="translate(160.712 355.653)">
+      <rect id="Line_01" width="1613" height="2" transform="translate(0.288 372.347)" fill="#646d82" opacity="0.102"/>
+      <rect id="Line_02" width="1613" height="1" transform="translate(0.288 279.347)" fill="#646d82" opacity="0.102"/>
+      <rect id="Line_03" width="1613" height="2" transform="translate(0.288 186.347)" fill="#646d82" opacity="0.102"/>
+      <rect id="Line_04" width="1613" height="1" transform="translate(0.288 93.347)" fill="#646d82" opacity="0.102"/>
+      <rect id="Line_05" width="1613" height="1" transform="translate(0.288 0.347)" fill="#646d82" opacity="0.102"/>
+    </g>
+    <path id="Shape" d="M990.744,542h85.4a4.744,4.744,0,0,1,4.744,4.744v34.79a4.744,4.744,0,0,1-4.744,4.744h-28.992c-.3,0-13.02,18.977-13.178,18.977-.932,0-14.039-18.977-14.233-18.977H990.744A4.744,4.744,0,0,1,986,581.534v-34.79A4.744,4.744,0,0,1,990.744,542Z" transform="translate(27.514 -148.792)" fill="#37a28c"/>
+    <text id="_1468" data-name="1468" transform="translate(1058 419)" fill="#fff" font-size="19" font-family="OpenSans-Bold, Open Sans" font-weight="700"><tspan x="-21.69" y="0">1468</tspan></text>
+  </g>
+</svg>

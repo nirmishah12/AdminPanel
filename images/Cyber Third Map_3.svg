@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="705.5" height="215.5" viewBox="0 0 705.5 215.5">
+  <g id="Cyber_Third_Map_3" data-name="Cyber Third Map_3" transform="translate(-915.5 -1150.977)">
+    <g id="Ellipse_21" data-name="Ellipse 21" transform="translate(926.231 1150.977) rotate(3)" fill="none" stroke="#455060" stroke-linecap="round" stroke-width="14">
+      <circle cx="102.525" cy="102.525" r="102.525" stroke="none"/>
+      <circle cx="102.525" cy="102.525" r="95.525" fill="none"/>
+    </g>
+    <g id="Ellipse_20" data-name="Ellipse 20" transform="translate(926.231 1150.977) rotate(3)" fill="none" stroke="#37a28c" stroke-linecap="round" stroke-width="14" stroke-dasharray="230">
+      <circle cx="102.525" cy="102.525" r="102.525" stroke="none"/>
+      <circle cx="102.525" cy="102.525" r="95.525" fill="none"/>
+    </g>
+    <text id="_65_" data-name="65%" transform="translate(990.784 1268.931)" fill="#b8aeb0" font-size="30" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="0" y="0">65%</tspan></text>
+    <text id="Status" transform="translate(1258 1206)" fill="#fff" font-size="26" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">Status</tspan></text>
+    <text id="Growth" transform="translate(1258 1230)" fill="#fff" font-size="18" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">Growth</tspan></text>
+    <text id="_4.312" data-name="4.312" transform="translate(1258 1293)" fill="#fff" font-size="30" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">4.312</tspan></text>
+    <g id="Group_71" data-name="Group 71" transform="translate(1265 1159)">
+      <circle id="Ellipse_23" data-name="Ellipse 23" cx="3" cy="3" r="3" transform="translate(350 23)" fill="#f5fbff"/>
+      <circle id="Ellipse_24" data-name="Ellipse 24" cx="3" cy="3" r="3" transform="translate(350 32)" fill="#f5fbff"/>
+      <g id="Group_70" data-name="Group 70">
+        <path id="Path_121" data-name="Path 121" d="M3,0A3,3,0,1,1,0,3,3,3,0,0,1,3,0Z" transform="translate(350 41)" fill="#f5fbff"/>
+      </g>
+    </g>
+  </g>
+</svg>

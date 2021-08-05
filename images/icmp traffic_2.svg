@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="363.649" height="108.234" viewBox="0 0 363.649 108.234">
+  <defs>
+    <filter id="Path_207" x="0" y="0" width="363.649" height="108.234" filterUnits="userSpaceOnUse">
+      <feOffset dx="2" dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood flood-color="#fff" flood-opacity="0.769"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="icmp_traffic_2" data-name="icmp traffic_2" transform="translate(-493.497 -517.406)">
+    <g transform="matrix(1, 0, 0, 1, 493.5, 517.41)" filter="url(#Path_207)">
+      <path id="Path_207-2" data-name="Path 207" d="M963.607,628.178s13.976,17.132,26.45,18.034,15.479-37.57,25.849-39.674,7.815,36.669,26.45,36.669,26.149-29.756,52.9-23.444,23.745,48.09,54.1,54.7S1177.609,637.8,1198.648,639s15.028-24.646,29.455-27.652,21.039,14.427,36.068,8.416,28.854-19.236,28.854-19.236" transform="translate(-948.5 -585.41)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="3"/>
+    </g>
+    <text id="_267" data-name="267" transform="translate(764 530)" fill="#fff" font-size="12" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="0" y="0">267</tspan></text>
+    <circle id="Ellipse_183" data-name="Ellipse 183" cx="10" cy="10" r="10" transform="translate(765 533)" fill="#fff" opacity="0.5"/>
+    <circle id="Ellipse_184" data-name="Ellipse 184" cx="4" cy="4" r="4" transform="translate(771 539)" fill="#fff"/>
+  </g>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="502" height="169.966" viewBox="0 0 502 169.966">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.532" y1="-0.358" x2="0.529" y2="1.357" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fdcbd4"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g id="Trafic_Graphs_5" data-name="Trafic Graphs_5" transform="translate(-69 -896)">
+    <text id="_124" data-name="124" transform="translate(69 934)" fill="#f7617d" font-size="35" font-family="ArialMT, Arial" letter-spacing="0.05em"><tspan x="0" y="0">124</tspan></text>
+    <text id="DDoS" transform="translate(71 962)" fill="#646d82" font-size="16" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" letter-spacing="0.1em"><tspan x="0" y="0">DDOS</tspan></text>
+    <text id="_" data-name="" transform="translate(532 927)" fill="#f46363" font-size="29" font-family="SegoeUI, Segoe UI"><tspan x="-18.72" y="0"></tspan></text>
+    <text id="_86_" data-name="86%" transform="translate(571 924)" fill="#f46363" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="-37.93" y="0">86%</tspan></text>
+    <path id="Line" d="M62.658,368.452s18.278,3.754,26.4,1.408a35.609,35.609,0,0,0,28.432-18.3s9.065-18.256,24.37-5.631c0,0,16.113,17.933,28.433-14.147,0,0,8.839-27.37,47.462-2.326,0,0,19.557,7.958,41.9-8.935,0,0,21.442-21.22,52.8,8.447,0,0,16,16.67,34.525-4.224,0,0,7.7-14.277,18.277-23.932,0,0,21.163-15.632,32.413,16.386,0,0,1.729,14.54,12.265,24.509,0,0,1.379,6.57,22.339,8.447,0,0,18.032,2.723,26.4,16.893" transform="translate(63.819 693.71)" stroke="#f7617d" stroke-linecap="round" stroke-width="3" stroke-dasharray="0 6" fill="url(#linear-gradient)"/>
+  </g>
+</svg>

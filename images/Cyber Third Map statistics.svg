@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="492" height="331" viewBox="0 0 492 331">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="363" height="199" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Cyber_Third_Map_statistics" data-name="Cyber Third Map statistics" transform="translate(-311 -1049)">
+    <circle id="Ellipse_40" data-name="Ellipse 40" cx="20" cy="20" r="20" transform="translate(763 1340)" fill="#349f8d"/>
+    <g id="Group_72" data-name="Group 72" transform="translate(773.404 1360.404) rotate(-45)">
+      <line id="Line_1" data-name="Line 1" x1="14.45" transform="translate(0 6)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="2"/>
+      <line id="Line_2" data-name="Line 2" x2="6" y2="6" transform="translate(8.45)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="2"/>
+      <line id="Line_3" data-name="Line 3" y1="6.157" x2="5.257" transform="translate(9.192 6)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="2"/>
+    </g>
+    <g id="Group_71" data-name="Group 71" transform="translate(796.559 1049)">
+      <circle id="Ellipse_23" data-name="Ellipse 23" cx="3" cy="3" r="3" fill="#f5fbff"/>
+      <circle id="Ellipse_24" data-name="Ellipse 24" cx="3" cy="3" r="3" transform="translate(0 9)" fill="#f5fbff"/>
+      <g id="Group_70" data-name="Group 70" transform="translate(0.441 18)">
+        <path id="Path_121" data-name="Path 121" d="M3,0A3,3,0,1,1,0,3,3,3,0,0,1,3,0Z" fill="#f5fbff"/>
+      </g>
+    </g>
+    <text id="Received" transform="translate(335 1114)" fill="#fff" font-size="18" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">Received</tspan></text>
+    <text id="Transfered" transform="translate(488 1114)" fill="#fff" font-size="18" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">Transfered</tspan></text>
+    <circle id="Ellipse_58" data-name="Ellipse 58" cx="8" cy="8" r="8" transform="translate(311 1100)" fill="#b8aeb0"/>
+    <circle id="Ellipse_61" data-name="Ellipse 61" cx="8" cy="8" r="8" transform="translate(464 1100)" fill="#349f8d"/>
+    <text id="Mon" transform="translate(311 1160)" fill="#fff" font-size="12" font-family="Montserrat-Regular, Montserrat" opacity="0.5"><tspan x="0" y="0">Mon</tspan></text>
+    <text id="_0" data-name="0" transform="translate(364 1366)" fill="#fff" font-size="10" font-family="Montserrat-Regular, Montserrat" opacity="0.5"><tspan x="0" y="0">0</tspan></text>
+    <text id="_100" data-name="100" transform="translate(430 1366)" fill="#fff" font-size="10" font-family="Montserrat-Regular, Montserrat" opacity="0.5"><tspan x="0" y="0">100</tspan></text>
+    <text id="_200" data-name="200" transform="translate(503 1366)" fill="#fff" font-size="10" font-family="Montserrat-Regular, Montserrat" opacity="0.5"><tspan x="0" y="0">200</tspan></text>
+    <text id="_300" data-name="300" transform="translate(575 1366)" fill="#fff" font-size="10" font-family="Montserrat-Regular, Montserrat" opacity="0.5"><tspan x="0" y="0">300</tspan></text>
+    <text id="_400" data-name="400" transform="translate(648 1365)" fill="#fff" font-size="10" font-family="Montserrat-Regular, Montserrat" opacity="0.5"><tspan x="0" y="0">400</tspan></text>
+    <text id="_500" data-name="500" transform="translate(720 1366)" fill="#fff" font-size="10" font-family="Montserrat-Regular, Montserrat" opacity="0.5"><tspan x="0" y="0">500</tspan></text>
+    <text id="Tue" transform="translate(311 1191)" fill="#fff" font-size="12" font-family="Montserrat-Regular, Montserrat" opacity="0.5"><tspan x="0" y="0">Tue</tspan></text>
+    <text id="Wed" transform="translate(311 1222)" fill="#fff" font-size="12" font-family="Montserrat-Regular, Montserrat" opacity="0.5"><tspan x="0" y="0">Wed</tspan></text>
+    <text id="Thu" transform="translate(311 1253)" fill="#fff" font-size="12" font-family="Montserrat-Regular, Montserrat" opacity="0.5"><tspan x="0" y="0">Thu</tspan></text>
+    <text id="Fri" transform="translate(311 1284)" fill="#fff" font-size="12" font-family="Montserrat-Regular, Montserrat" opacity="0.5"><tspan x="0" y="0">Fri</tspan></text>
+    <text id="Sat" transform="translate(311 1315)" fill="#fff" font-size="12" font-family="Montserrat-Regular, Montserrat" opacity="0.5"><tspan x="0" y="0">Sat</tspan></text>
+    <text id="Sun" transform="translate(311 1346)" fill="#fff" font-size="12" font-family="Montserrat-Regular, Montserrat" opacity="0.5"><tspan x="0" y="0">Sun</tspan></text>
+    <g id="Repeat_Grid_18" data-name="Repeat Grid 18" transform="translate(368 1149)" opacity="0.5" clip-path="url(#clip-path)">
+      <g transform="translate(-189 -136)">
+        <line id="Line_30" data-name="Line 30" y2="213" transform="translate(189.5 136.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1" opacity="0.5"/>
+      </g>
+      <g transform="translate(-117 -136)">
+        <line id="Line_30-2" data-name="Line 30" y2="213" transform="translate(189.5 136.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1" opacity="0.5"/>
+      </g>
+      <g transform="translate(-45 -136)">
+        <line id="Line_30-3" data-name="Line 30" y2="213" transform="translate(189.5 136.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1" opacity="0.5"/>
+      </g>
+      <g transform="translate(27 -136)">
+        <line id="Line_30-4" data-name="Line 30" y2="213" transform="translate(189.5 136.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1" opacity="0.5"/>
+      </g>
+      <g transform="translate(99 -136)">
+        <line id="Line_30-5" data-name="Line 30" y2="213" transform="translate(189.5 136.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1" opacity="0.5"/>
+      </g>
+      <g transform="translate(171 -136)">
+        <line id="Line_30-6" data-name="Line 30" y2="213" transform="translate(189.5 136.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1" opacity="0.5"/>
+      </g>
+    </g>
+    <rect id="Rectangle_74" data-name="Rectangle 74" width="144" height="8" rx="4" transform="translate(368 1153)" fill="#37a28c"/>
+    <rect id="Rectangle_76" data-name="Rectangle 76" width="73" height="8" rx="4" transform="translate(440 1214)" fill="#37a28c"/>
+    <rect id="Rectangle_79" data-name="Rectangle 79" width="144" height="8" rx="4" transform="translate(441 1276)" fill="#37a28c"/>
+    <rect id="Rectangle_77" data-name="Rectangle 77" width="73" height="8" rx="4" transform="translate(368 1245)" fill="#b8aeb0"/>
+    <rect id="Rectangle_78" data-name="Rectangle 78" width="73" height="8" rx="4" transform="translate(585 1245)" fill="#b8aeb0"/>
+    <rect id="Rectangle_80" data-name="Rectangle 80" width="73" height="8" rx="4" transform="translate(656 1307)" fill="#b8aeb0"/>
+    <rect id="Rectangle_75" data-name="Rectangle 75" width="144" height="8" rx="4" transform="translate(512 1183)" fill="#b8aeb0"/>
+  </g>
+</svg>

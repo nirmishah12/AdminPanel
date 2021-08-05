@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="282.484" height="270.776" viewBox="0 0 282.484 270.776">
+  <g id="Threat_Statistics_5" data-name="Threat Statistics_5" transform="translate(-1311.625 -873.641)">
+    <text id="_01_20" data-name="01/20" transform="translate(1311.625 1121.515)" fill="#fff" font-size="18" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">01/20</tspan></text>
+    <text id="_03_20" data-name="03/20" transform="translate(1541.109 1121.515)" fill="#fff" font-size="18" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">03/20</tspan></text>
+    <rect id="Rectangle_72" data-name="Rectangle 72" width="75.817" height="270.776" rx="12" transform="translate(1415.197 873.641)" fill="#37a28c"/>
+    <text id="_02_20" data-name="02/20" transform="translate(1426.705 1119.838)" fill="#fff" font-size="17" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">02/20</tspan></text>
+    <text id="_24_" data-name="+24%" transform="translate(1426.705 915.725)" fill="#fff" font-size="18" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">+24%</tspan></text>
+    <g id="Ellipse_62" data-name="Ellipse 62" transform="translate(1443.629 975.859)" fill="#00ccf2" stroke="#fff" stroke-width="5">
+      <circle cx="8.462" cy="8.462" r="8.462" stroke="none"/>
+      <circle cx="8.462" cy="8.462" r="5.962" fill="none"/>
+    </g>
+    <line id="Line_25" data-name="Line 25" x1="114.809" y2="73.806" transform="translate(1452.285 911.27)" fill="rgba(0,0,0,0)" stroke="#fff" stroke-width="2"/>
+    <line id="Line_22" data-name="Line 22" x1="109.684" y2="71.756" transform="translate(1457.41 911.27)" fill="none" stroke="#fff" stroke-width="2"/>
+    <line id="Line_24" data-name="Line 24" x1="116.859" y1="28.702" transform="translate(1335.426 956.373)" fill="rgba(0,0,0,0)" stroke="#fff" stroke-width="2"/>
+    <line id="Line_23" data-name="Line 23" x1="111.734" y1="27.677" transform="translate(1335.426 956.373)" fill="none" stroke="#fff" stroke-width="2"/>
+    <g id="Ellipse_53" data-name="Ellipse 53" transform="translate(1326.518 947.428)" fill="#00ccf2" stroke="#fff" stroke-width="5">
+      <circle cx="8.462" cy="8.462" r="8.462" stroke="none"/>
+      <circle cx="8.462" cy="8.462" r="5.962" fill="none"/>
+    </g>
+    <g id="Ellipse_63" data-name="Ellipse 63" transform="translate(1558.709 902.75)" fill="#00ccf2" stroke="#fff" stroke-width="5">
+      <circle cx="8.123" cy="8.123" r="8.123" stroke="none"/>
+      <circle cx="8.123" cy="8.123" r="5.623" fill="none"/>
+    </g>
+  </g>
+</svg>

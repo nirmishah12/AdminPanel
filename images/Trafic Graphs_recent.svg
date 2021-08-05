@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1268" height="464" viewBox="0 0 1268 464">
+  <g id="Trafic_Graphs_recent" data-name="Trafic Graphs_recent" transform="translate(-274 -1334)">
+    <line id="Line_56" data-name="Line 56" y2="331.265" transform="translate(366.442 1342.45)" fill="none" stroke="#5e5e5e" stroke-width="1" stroke-dasharray="2 2"/>
+    <line id="Line_57" data-name="Line 57" x2="1170.566" transform="translate(366.442 1673.715)" fill="none" stroke="#5e5e5e" stroke-width="1" stroke-dasharray="2 2"/>
+    <line id="Line_58" data-name="Line 58" x2="1170.566" transform="translate(366.442 1618.504)" fill="none" stroke="#5e5e5e" stroke-width="1" stroke-dasharray="2 2"/>
+    <line id="Line_59" data-name="Line 59" x2="1170.566" transform="translate(366.442 1563.293)" fill="none" stroke="#5e5e5e" stroke-width="1" stroke-dasharray="2 2"/>
+    <line id="Line_60" data-name="Line 60" x2="1170.566" transform="translate(366.442 1508.082)" fill="none" stroke="#5e5e5e" stroke-width="1" stroke-dasharray="2 2"/>
+    <line id="Line_61" data-name="Line 61" x2="1170.566" transform="translate(366.442 1452.871)" fill="none" stroke="#5e5e5e" stroke-width="1" stroke-dasharray="2 2"/>
+    <line id="Line_62" data-name="Line 62" x2="1170.566" transform="translate(366.442 1397.661)" fill="none" stroke="#5e5e5e" stroke-width="1" stroke-dasharray="2 2"/>
+    <line id="Line_63" data-name="Line 63" x2="1170.566" transform="translate(366.442 1342.45)" fill="none" stroke="#5e5e5e" stroke-width="1" stroke-dasharray="2 2"/>
+    <text id="_0" data-name="0" transform="translate(321 1682)" fill="#d7dadb" font-size="20" font-family="Montserrat-Regular, Montserrat" letter-spacing="0.02em"><tspan x="0" y="0">0</tspan></text>
+    <text id="Jan" transform="translate(350 1705)" fill="#d7dadb" font-size="19" font-family="Montserrat-Regular, Montserrat" letter-spacing="0.02em"><tspan x="0" y="0">Jan</tspan></text>
+    <text id="Feb" transform="translate(459 1704)" fill="#d7dadb" font-size="18" font-family="Montserrat-Regular, Montserrat" letter-spacing="0.02em"><tspan x="0" y="0">Feb</tspan></text>
+    <text id="March" transform="translate(623 1705)" fill="#d7dadb" font-size="19" font-family="Montserrat-Regular, Montserrat" letter-spacing="0.02em"><tspan x="0" y="0">March</tspan></text>
+    <text id="April" transform="translate(814 1705)" fill="#d7dadb" font-size="19" font-family="Montserrat-Regular, Montserrat" letter-spacing="0.02em"><tspan x="0" y="0">April</tspan></text>
+    <text id="May" transform="translate(989 1704)" fill="#d7dadb" font-size="18" font-family="Montserrat-Regular, Montserrat" letter-spacing="0.02em"><tspan x="0" y="0">May</tspan></text>
+    <text id="June" transform="translate(1156 1704)" fill="#d7dadb" font-size="18" font-family="Montserrat-Regular, Montserrat" letter-spacing="0.02em"><tspan x="0" y="0">June</tspan></text>
+    <text id="July" transform="translate(1330 1705)" fill="#d7dadb" font-size="19" font-family="Montserrat-Regular, Montserrat" letter-spacing="0.02em"><tspan x="0" y="0">July</tspan></text>
+    <text id="Aug" transform="translate(1498 1704)" fill="#d7dadb" font-size="18" font-family="Montserrat-Regular, Montserrat" letter-spacing="0.02em"><tspan x="0" y="0">Aug</tspan></text>
+    <text id="_10" data-name="10" transform="translate(321 1627)" fill="#d7dadb" font-size="20" font-family="Montserrat-Regular, Montserrat" letter-spacing="0.02em"><tspan x="0" y="0">10</tspan></text>
+    <text id="_20" data-name="20" transform="translate(321 1571)" fill="#d7dadb" font-size="19" font-family="Montserrat-Regular, Montserrat" letter-spacing="0.02em"><tspan x="0" y="0">20</tspan></text>
+    <text id="_30" data-name="30" transform="translate(321 1517)" fill="#d7dadb" font-size="19" font-family="Montserrat-Regular, Montserrat" letter-spacing="0.02em"><tspan x="0" y="0">30</tspan></text>
+    <text id="_40" data-name="40" transform="translate(321 1461)" fill="#d7dadb" font-size="18" font-family="Montserrat-Regular, Montserrat" letter-spacing="0.02em"><tspan x="0" y="0">40</tspan></text>
+    <text id="_50" data-name="50" transform="translate(321 1407)" fill="#d7dadb" font-size="19" font-family="Montserrat-Regular, Montserrat" letter-spacing="0.02em"><tspan x="0" y="0">50</tspan></text>
+    <text id="_60" data-name="60" transform="translate(321 1351)" fill="#d7dadb" font-size="18" font-family="Montserrat-Regular, Montserrat" letter-spacing="0.02em"><tspan x="0" y="0">60</tspan></text>
+    <ellipse id="Ellipse_52" data-name="Ellipse 52" cx="6.5" cy="6" rx="6.5" ry="6" transform="translate(361 1528)" fill="#f7617d"/>
+    <circle id="Ellipse_53" data-name="Ellipse 53" cx="6" cy="6" r="6" transform="translate(468 1449)" fill="#f7617d"/>
+    <circle id="Ellipse_89" data-name="Ellipse 89" cx="6" cy="6" r="6" transform="translate(469 1466)" fill="#fecd54"/>
+    <path id="Path_521" data-name="Path 521" d="M6.5,0A6.5,6.5,0,1,1,0,6.5,6.5,6.5,0,0,1,6.5,0Z" transform="translate(645 1466)" fill="#f7617d"/>
+    <path id="Path_522" data-name="Path 522" d="M6.5,0A6.5,6.5,0,1,1,0,6.5,6.5,6.5,0,0,1,6.5,0Z" transform="translate(645 1442.504)" fill="#ffcd54"/>
+    <ellipse id="Ellipse_55" data-name="Ellipse 55" cx="6.5" cy="6" rx="6.5" ry="6" transform="translate(868 1432)" fill="#f7617d"/>
+    <ellipse id="Ellipse_56" data-name="Ellipse 56" cx="6.5" cy="6" rx="6.5" ry="6" transform="translate(1005 1520)" fill="#f7617d"/>
+    <circle id="Ellipse_57" data-name="Ellipse 57" cx="6.5" cy="6.5" r="6.5" transform="translate(1170 1567)" fill="#f7617d"/>
+    <ellipse id="Ellipse_58" data-name="Ellipse 58" cx="6" cy="6.5" rx="6" ry="6.5" transform="translate(1350 1479)" fill="#f7617d"/>
+    <ellipse id="Ellipse_59" data-name="Ellipse 59" cx="6.5" cy="6" rx="6.5" ry="6" transform="translate(1529 1432)" fill="#f7617d"/>
+    <ellipse id="Ellipse_60" data-name="Ellipse 60" cx="6.5" cy="6" rx="6.5" ry="6" transform="translate(1529 1574)" fill="#02bc77"/>
+    <circle id="Ellipse_61" data-name="Ellipse 61" cx="6.5" cy="6.5" r="6.5" transform="translate(1170 1520)" fill="#02bc77"/>
+    <circle id="Ellipse_91" data-name="Ellipse 91" cx="6.5" cy="6.5" r="6.5" transform="translate(1170 1485)" fill="#ffcd54"/>
+    <circle id="Ellipse_92" data-name="Ellipse 92" cx="6.5" cy="6.5" r="6.5" transform="translate(1350 1522)" fill="#ffcd54"/>
+    <circle id="Ellipse_93" data-name="Ellipse 93" cx="6.5" cy="6.5" r="6.5" transform="translate(1529 1448)" fill="#ffcd54"/>
+    <circle id="Ellipse_62" data-name="Ellipse 62" cx="6.5" cy="6.5" r="6.5" transform="translate(1005 1433)" fill="#02bc77"/>
+    <circle id="Ellipse_63" data-name="Ellipse 63" cx="6.5" cy="6.5" r="6.5" transform="translate(868 1479)" fill="#02bc77"/>
+    <circle id="Ellipse_90" data-name="Ellipse 90" cx="6.5" cy="6.5" r="6.5" transform="translate(868 1524)" fill="#ffcd54"/>
+    <circle id="Ellipse_64" data-name="Ellipse 64" cx="6.5" cy="6.5" r="6.5" transform="translate(645 1563.293)" fill="#02bc77"/>
+    <ellipse id="Ellipse_65" data-name="Ellipse 65" cx="6.5" cy="6" rx="6.5" ry="6" transform="translate(468 1544)" fill="#02bc77"/>
+    <circle id="Ellipse_66" data-name="Ellipse 66" cx="6.5" cy="6.5" r="6.5" transform="translate(361 1622)" fill="#02bc77"/>
+    <line id="Line_106" data-name="Line 106" x2="893" transform="translate(274 1742)" fill="none" stroke="#5e5e5e" stroke-width="1"/>
+    <path id="Path_380" data-name="Path 380" d="M222.032,1073.363s103.96-96.278,167.428-96.278S497.7,1028.847,554.4,1025.931s104.379-94.048,167.52-94.776,117.26-48.112,167.518-47.388,112.106,92.6,168.805,93.317,116-47.051,167.518-45.931,166.23,94.777,166.23,94.777" transform="translate(145.199 554.809)" fill="none" stroke="#02bc77" stroke-miterlimit="10" stroke-width="2" stroke-dasharray="2"/>
+    <path id="Path_380-2" data-name="Path 380" d="M222.032,883.758s103.809,90.585,167.185,90.585,108.087-48.7,164.7-45.958,104.228,88.487,167.277,89.172,117.09,45.267,167.275,44.586,111.943-87.121,168.56-87.8,115.829,44.269,167.274,43.215,170.619-76.769,170.619-76.769" transform="translate(145.199 512.848)" fill="none" stroke="#fecd54" stroke-miterlimit="10" stroke-width="2" stroke-dasharray="2"/>
+    <path id="Path_379" data-name="Path 379" d="M223.031,790.966S325.037,695.4,391.858,695.4,516.59,744.133,556.52,744.133s96.17-47.2,161.863-48.734,125.353,95.74,174.294,95.567,133.713,45.755,166.143,45.755,99.278-89.56,166.146-92.6,167.428-50.81,168.719-48.734" transform="translate(145.776 742.559)" fill="none" stroke="#f7617d" stroke-miterlimit="10" stroke-width="2" stroke-dasharray="2"/>
+    <g id="Group_297" data-name="Group 297" transform="translate(867.862 1774.883)">
+      <text id="OWASP" transform="translate(35.138 18.117)" fill="#d7dadb" font-size="19" font-family="Montserrat-Regular, Montserrat" letter-spacing="0.02em"><tspan x="0" y="0">OWASP</tspan></text>
+      <text id="Automated_Threat" data-name="Automated Threat" transform="translate(-224.862 18.117)" fill="#d7dadb" font-size="19" font-family="Montserrat-Regular, Montserrat" letter-spacing="0.02em"><tspan x="0" y="0">Automated Threat</tspan></text>
+      <text id="DDoS" transform="translate(191.138 17.117)" fill="#d7dadb" font-size="18" font-family="Montserrat-Regular, Montserrat" letter-spacing="0.02em"><tspan x="0" y="0">DDoS</tspan></text>
+      <circle id="Ellipse_51" data-name="Ellipse 51" cx="8.5" cy="8.5" r="8.5" transform="translate(0.138 3.117)" fill="#ffce54"/>
+      <path id="Path_523" data-name="Path 523" d="M8.5,0A8.5,8.5,0,1,1,0,8.5,8.5,8.5,0,0,1,8.5,0Z" transform="translate(-259.862 3.117)" fill="#02bc77"/>
+      <ellipse id="Ellipse_67" data-name="Ellipse 67" cx="9" cy="8.5" rx="9" ry="8.5" transform="translate(156.138 3.117)" fill="#f7607c"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="325" height="251" viewBox="0 0 325 251">
+  <g id="Threat_Statistics_2" data-name="Threat Statistics_2" transform="translate(-304 -868.495)">
+    <text id="Completed" transform="translate(328 1114.495)" fill="#f3f7ff" font-size="18" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="0">Completed</tspan></text>
+    <text id="Running" transform="translate(481 1114.495)" fill="#fff" font-size="18" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="0">Running</tspan></text>
+    <circle id="Ellipse_58" data-name="Ellipse 58" cx="8" cy="8" r="8" transform="translate(304 1100.495)" fill="#37a28c"/>
+    <circle id="Ellipse_61" data-name="Ellipse 61" cx="8" cy="8" r="8" transform="translate(457 1100.495)" fill="#8b8b8b"/>
+    <text id="_01_20" data-name="01/20" transform="translate(304 1080.495)" fill="#272d3b" font-size="14" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="0">01/20</tspan></text>
+    <rect id="Rectangle_61" data-name="Rectangle 61" width="10" height="190" rx="5" transform="translate(317 868.495)" fill="#f4f7fe"/>
+    <rect id="Rectangle_62" data-name="Rectangle 62" width="10" height="134" rx="5" transform="translate(317 924.495)" fill="#8b8b8b"/>
+    <rect id="Rectangle_63" data-name="Rectangle 63" width="10" height="100" rx="5" transform="translate(317 958.495)" fill="#37a28c"/>
+    <text id="_02_20" data-name="02/20" transform="translate(361 1080.495)" fill="#272d3b" font-size="14" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="0">02/20</tspan></text>
+    <rect id="Rectangle_61-2" data-name="Rectangle 61" width="10" height="190" rx="5" transform="translate(374 868.495)" fill="#f4f7fe"/>
+    <rect id="Rectangle_64" data-name="Rectangle 64" width="10" height="115" rx="5" transform="translate(374 943.495)" fill="#8b8b8b"/>
+    <rect id="Rectangle_65" data-name="Rectangle 65" width="10" height="85" rx="5" transform="translate(374 973.495)" fill="#37a28c"/>
+    <text id="_03_20" data-name="03/20" transform="translate(418 1080.495)" fill="#272d3b" font-size="14" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="0">03/20</tspan></text>
+    <rect id="Rectangle_61-3" data-name="Rectangle 61" width="10" height="190" rx="5" transform="translate(431 868.495)" fill="#f4f7fe"/>
+    <rect id="Rectangle_66" data-name="Rectangle 66" width="10" height="103" rx="5" transform="translate(431 955.495)" fill="#8b8b8b"/>
+    <rect id="Rectangle_67" data-name="Rectangle 67" width="10" height="86" rx="5" transform="translate(431 972.495)" fill="#37a28c"/>
+    <text id="_04_20" data-name="04/20" transform="translate(475 1080.495)" fill="#272d3b" font-size="14" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="0">04/20</tspan></text>
+    <rect id="Rectangle_61-4" data-name="Rectangle 61" width="10" height="190" rx="5" transform="translate(488 868.495)" fill="#f4f7fe"/>
+    <rect id="Rectangle_68" data-name="Rectangle 68" width="10" height="120" rx="5" transform="translate(488 938.495)" fill="#8b8b8b"/>
+    <rect id="Rectangle_69" data-name="Rectangle 69" width="10" height="100" rx="5" transform="translate(488 958.495)" fill="#37a28c"/>
+    <text id="_05_20" data-name="05/20" transform="translate(532 1080.495)" fill="#272d3b" font-size="14" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="0">05/20</tspan></text>
+    <rect id="Rectangle_61-5" data-name="Rectangle 61" width="10" height="190" rx="5" transform="translate(545 868.495)" fill="#f4f7fe"/>
+    <rect id="Rectangle_70" data-name="Rectangle 70" width="10" height="144" rx="5" transform="translate(545 914.495)" fill="#8b8b8b"/>
+    <rect id="Rectangle_71" data-name="Rectangle 71" width="10" height="107" rx="5" transform="translate(545 951.495)" fill="#37a28c"/>
+    <text id="_06_20" data-name="06/20" transform="translate(589 1080.495)" fill="#272d3b" font-size="14" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="0">06/20</tspan></text>
+    <rect id="Rectangle_61-6" data-name="Rectangle 61" width="10" height="190" rx="5" transform="translate(602 868.495)" fill="#f4f7fe"/>
+    <rect id="Rectangle_61-7" data-name="Rectangle 61" width="10" height="153" rx="5" transform="translate(602 905.495)" fill="#8b8b8b"/>
+    <rect id="Rectangle_61-8" data-name="Rectangle 61" width="10" height="109" rx="5" transform="translate(602 949.495)" fill="#37a28c"/>
+  </g>
+</svg>

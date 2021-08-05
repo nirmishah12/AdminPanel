@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="430.516" height="276.448" viewBox="0 0 430.516 276.448">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_1475" data-name="Rectangle 1475" width="366.161" height="201.422" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Threat_Statistics_3" data-name="Threat Statistics_3" transform="translate(-714.422 -864.265)">
+    <text id="Received" transform="translate(739.1 882.265)" fill="#fff" font-size="17" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Received</tspan></text>
+    <text id="Transfered" transform="translate(893.168 882.265)" fill="#fff" font-size="17" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Transfered</tspan></text>
+    <circle id="Ellipse_58" data-name="Ellipse 58" cx="8.004" cy="8.004" r="8.004" transform="translate(714.422 868.2)" fill="#37a28c"/>
+    <circle id="Ellipse_61" data-name="Ellipse 61" cx="8.004" cy="8.004" r="8.004" transform="translate(869.156 868.2)" fill="#8b8b8b"/>
+    <text id="Mon" transform="translate(714.422 927.62)" fill="#fff" font-size="11" font-family="Poppins-Regular, Poppins" opacity="0.5"><tspan x="0" y="0">Mon</tspan></text>
+    <text id="_0" data-name="0" transform="translate(767.779 1136.713)" fill="#fff" font-size="10" font-family="Poppins-Regular, Poppins" opacity="0.5"><tspan x="0" y="0">0</tspan></text>
+    <text id="_100" data-name="100" transform="translate(834.475 1135.346)" fill="#fff" font-size="9" font-family="Poppins-Regular, Poppins" opacity="0.5"><tspan x="0" y="0">100</tspan></text>
+    <text id="_200" data-name="200" transform="translate(908.508 1135.346)" fill="#fff" font-size="9" font-family="Poppins-Regular, Poppins" opacity="0.5"><tspan x="0" y="0">200</tspan></text>
+    <text id="_300" data-name="300" transform="translate(981.207 1135.346)" fill="#fff" font-size="9" font-family="Poppins-Regular, Poppins" opacity="0.5"><tspan x="0" y="0">300</tspan></text>
+    <text id="_400" data-name="400" transform="translate(1055.238 1134.013)" fill="#fff" font-size="9" font-family="Poppins-Regular, Poppins" opacity="0.5"><tspan x="0" y="0">400</tspan></text>
+    <text id="_500" data-name="500" transform="translate(1127.938 1135.346)" fill="#fff" font-size="9" font-family="Poppins-Regular, Poppins" opacity="0.5"><tspan x="0" y="0">500</tspan></text>
+    <text id="Tue" transform="translate(714.422 957.968)" fill="#fff" font-size="10" font-family="Poppins-Regular, Poppins" opacity="0.5"><tspan x="0" y="0">Tue</tspan></text>
+    <text id="Wed" transform="translate(714.422 991.315)" fill="#fff" font-size="12" font-family="Poppins-Regular, Poppins" opacity="0.5"><tspan x="0" y="0">Wed</tspan></text>
+    <text id="Thu" transform="translate(714.422 1020.662)" fill="#fff" font-size="10" font-family="Poppins-Regular, Poppins" opacity="0.5"><tspan x="0" y="0">Thu</tspan></text>
+    <text id="Fri" transform="translate(714.422 1054.009)" fill="#fff" font-size="12" font-family="Poppins-Regular, Poppins" opacity="0.5"><tspan x="0" y="0">Fri</tspan></text>
+    <text id="Sat" transform="translate(714.422 1083.356)" fill="#fff" font-size="10" font-family="Poppins-Regular, Poppins" opacity="0.5"><tspan x="0" y="0">Sat</tspan></text>
+    <text id="Sun" transform="translate(714.422 1114.703)" fill="#fff" font-size="10" font-family="Poppins-Regular, Poppins" opacity="0.5"><tspan x="0" y="0">Sun</tspan></text>
+    <g id="Repeat_Grid_18" data-name="Repeat Grid 18" transform="translate(772.447 917.555)" opacity="0.5" clip-path="url(#clip-path)">
+      <g id="Group_3202" data-name="Group 3202" transform="translate(-189 -136)">
+        <line id="Line_30" data-name="Line 30" y2="213" transform="translate(189.5 136.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1" opacity="0.5"/>
+      </g>
+      <g id="Group_3203" data-name="Group 3203" transform="translate(-117 -136)">
+        <line id="Line_30-2" data-name="Line 30" y2="213" transform="translate(189.5 136.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1" opacity="0.5"/>
+      </g>
+      <g id="Group_3204" data-name="Group 3204" transform="translate(-45 -136)">
+        <line id="Line_30-3" data-name="Line 30" y2="213" transform="translate(189.5 136.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1" opacity="0.5"/>
+      </g>
+      <g id="Group_3205" data-name="Group 3205" transform="translate(27 -136)">
+        <line id="Line_30-4" data-name="Line 30" y2="213" transform="translate(189.5 136.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1" opacity="0.5"/>
+      </g>
+      <g id="Group_3206" data-name="Group 3206" transform="translate(99 -136)">
+        <line id="Line_30-5" data-name="Line 30" y2="213" transform="translate(189.5 136.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1" opacity="0.5"/>
+      </g>
+      <g id="Group_3207" data-name="Group 3207" transform="translate(171 -136)">
+        <line id="Line_30-6" data-name="Line 30" y2="213" transform="translate(189.5 136.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1" opacity="0.5"/>
+      </g>
+    </g>
+    <rect id="Rectangle_74" data-name="Rectangle 74" width="145.397" height="8.67" rx="4" transform="translate(772.447 921.557)" fill="#37a28c"/>
+    <rect id="Rectangle_76" data-name="Rectangle 76" width="73.366" height="8.004" rx="4" transform="translate(845.146 983.584)" fill="#37a28c"/>
+    <rect id="Rectangle_79" data-name="Rectangle 79" width="145.397" height="8.004" rx="4" transform="translate(845.814 1046.278)" fill="#37a28c"/>
+    <rect id="Rectangle_77" data-name="Rectangle 77" width="73.366" height="8.004" rx="4" transform="translate(772.447 1014.931)" fill="#8b8b8b"/>
+    <rect id="Rectangle_78" data-name="Rectangle 78" width="74.033" height="8.004" rx="4" transform="translate(991.211 1014.931)" fill="#8b8b8b"/>
+    <rect id="Rectangle_80" data-name="Rectangle 80" width="73.366" height="8.004" rx="4" transform="translate(1063.242 1077.625)" fill="#8b8b8b"/>
+    <rect id="Rectangle_75" data-name="Rectangle 75" width="145.397" height="8.004" rx="4" transform="translate(917.846 952.237)" fill="#8b8b8b"/>
+  </g>
+</svg>

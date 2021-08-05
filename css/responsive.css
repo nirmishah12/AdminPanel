@@ -23,6 +23,12 @@
         padding-left: 15px;
         padding-right: 15px;
     }
+    .min-h-326 {
+        min-height: inherit;
+    }
+    .min-h-447 {
+        min-height: inherit;
+    }
     .login-page h3 {
         font-size: 24.7px;
     }
