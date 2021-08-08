@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="376.288" height="272.615" viewBox="0 0 376.288 272.615">
-  <g id="Status_5" transform="translate(-1225.227 -1985.938)">
+<svg xmlns="http://www.w3.org/2000/svg" width="201.002" height="201.002" viewBox="0 0 201.002 201.002">
+  <g id="Status_5" transform="translate(-1225.227 -2055.103)">
     <g id="Ellipse_21" data-name="Ellipse 21" transform="translate(1235.236 2055.103) rotate(3)" fill="none" stroke="#455060" stroke-linecap="round" stroke-width="14">
       <circle cx="95.627" cy="95.627" r="95.627" stroke="none"/>
       <circle cx="95.627" cy="95.627" r="88.627" fill="none"/>
@@ -9,15 +9,5 @@
       <circle cx="95.627" cy="95.627" r="88.627" fill="none"/>
     </g>
     <text id="_65_" data-name="65%" transform="translate(1295.957 2164.561)" fill="#37a28c" font-size="28" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="0" y="0">65%</tspan></text>
-    <text id="Status" transform="translate(1467.514 2103.938)" fill="#fff" font-size="40" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="0">Status</tspan></text>
-    <text id="Growth" transform="translate(1467.514 2142.458)" fill="#fff" font-size="28" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">Growth</tspan></text>
-    <text id="_4.312" data-name="4.312" transform="translate(1467.514 2242.554)" fill="#fff" font-size="47" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="0">4.312</tspan></text>
-    <g id="Group_3088" data-name="Group 3088" transform="translate(1591.922 1985.938)">
-      <ellipse id="Ellipse_23" data-name="Ellipse 23" cx="4.736" cy="4.736" rx="4.736" ry="4.736" transform="translate(0.12 0)" fill="#f5fbff"/>
-      <ellipse id="Ellipse_24" data-name="Ellipse 24" cx="4.736" cy="5.263" rx="4.736" ry="5.263" transform="translate(0.12 13.683)" fill="#f5fbff"/>
-      <g id="Group_70" data-name="Group 70" transform="translate(0 28.508)">
-        <path id="Path_121" data-name="Path 121" d="M4.781,0A4.781,4.781,0,1,1,0,4.781,4.781,4.781,0,0,1,4.781,0Z" fill="#f5fbff"/>
-      </g>
-    </g>
   </g>
 </svg>

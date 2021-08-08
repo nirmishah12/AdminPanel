@@ -1,15 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="506" height="169.193" viewBox="0 0 506 169.193">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="405.547" height="87.846" viewBox="0 0 405.547 87.846">
   <defs>
     <linearGradient id="linear-gradient" x1="0.5" y1="-1.357" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
       <stop offset="0" stop-color="#fecd54"/>
       <stop offset="1" stop-color="#fecd54" stop-opacity="0"/>
     </linearGradient>
   </defs>
-  <g id="Trafic_Graphs_7" data-name="Trafic Graphs_7" transform="translate(-37.882 -27)">
-    <text id="_124" data-name="124" transform="translate(37.882 65)" fill="#fecd54" font-size="35" font-family="ArialMT, Arial"><tspan x="0" y="0">124</tspan></text>
-    <text id="OWASP" transform="translate(38.882 94)" fill="#646d82" font-size="17" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" letter-spacing="0.1em"><tspan x="0" y="0">OWASP</tspan></text>
-    <text id="_" data-name="" transform="translate(486.882 58)" fill="#7b7b7b" font-size="29" font-family="SegoeUI, Segoe UI"><tspan x="-18.72" y="0"></tspan></text>
-    <text id="_112_" data-name="112%" transform="translate(543.882 55)" fill="#7b7b7b" font-size="20" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="-44.004" y="0">112%</tspan></text>
-    <path id="Line" d="M1475.135,370.1s16.01,4.775,23.125,1.79c0,0,16.307-.6,24.9-23.277,0,0,9.01-26.223,21.347-7.162,0,0,24.127,51.06,33.635,15.331,0,0,3.929-38.467,33.965-22.617,0,0,20.354,14.381,40.914-10.743,0,0,16.4-29.96,40.913-3.546,0,0,12.764,16.5,25.764-.136,0,0,10.869-21.152,19.844-23.813,0,0,45.913-26.523,71.356,17.713,0,0,9.332,31.735,30.51,16.683,0,0,12.078-8.164,22.49,2.646,0,0,9.261,6.934,13.23,36.267" transform="translate(-1386.165 -178.182)" stroke="#fecd54" stroke-linecap="round" stroke-width="3" stroke-dasharray="0 6" fill="url(#linear-gradient)"/>
+  <g id="Trafic_Graphs_7" data-name="Trafic Graphs_7" transform="translate(-87.108 -108.349)">
+    <path id="Line" d="M1475.14,370.1s16.01,4.775,23.125,1.79c0,0,16.307-.6,24.9-23.277,0,0,9.01-26.223,21.347-7.162,0,0,24.127,51.06,33.635,15.331,0,0,3.929-38.467,33.965-22.617,0,0,20.354,14.381,40.914-10.743,0,0,16.4-29.96,40.913-3.546,0,0,12.764,16.5,25.764-.136,0,0,10.869-21.152,19.844-23.813,0,0,45.913-26.523,71.356,17.713,0,0,9.332,31.735,30.51,16.683,0,0,12.078-8.164,22.49,2.646,0,0,9.261,6.934,13.23,36.267" transform="translate(-1386.165 -178.182)" stroke="#fecd54" stroke-linecap="round" stroke-width="3" stroke-dasharray="0 6" fill="url(#linear-gradient)"/>
   </g>
 </svg>

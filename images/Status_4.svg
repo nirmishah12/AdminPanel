@@ -1,98 +1,89 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="784.385" height="511.413" viewBox="0 0 784.385 511.413">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="681.551" height="436.581" viewBox="0 0 681.551 436.581">
   <defs>
     <clipPath id="clip-path">
-      <rect width="577.823" height="317.855" fill="none"/>
+      <rect id="Rectangle_1476" data-name="Rectangle 1476" width="577.823" height="317.855" fill="none"/>
     </clipPath>
   </defs>
-  <g id="Status_4" transform="translate(-295.353 -1733.401)">
-    <g id="Group_3086" data-name="Group 3086" transform="translate(1069.472 1733.401)">
-      <circle id="Ellipse_23" data-name="Ellipse 23" cx="4.781" cy="4.781" r="4.781" fill="#f5fbff"/>
-      <circle id="Ellipse_24" data-name="Ellipse 24" cx="4.781" cy="4.781" r="4.781" transform="translate(0 14.344)" fill="#f5fbff"/>
-      <g id="Group_70" data-name="Group 70" transform="translate(0.703 28.688)">
-        <path id="Path_121" data-name="Path 121" d="M4.781,0A4.781,4.781,0,1,1,0,4.781,4.781,4.781,0,0,1,4.781,0Z" fill="#f5fbff"/>
+  <g id="Group_3201" data-name="Group 3201" transform="translate(-295.353 -1808.233)">
+    <text id="Received" transform="translate(334.296 1837.233)" fill="#fff" font-size="28" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Received</tspan></text>
+    <text id="Transfered" transform="translate(577.424 1837.233)" fill="#fff" font-size="28" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Transfered</tspan></text>
+    <circle id="Ellipse_1537" data-name="Ellipse 1537" cx="12.63" cy="12.63" r="12.63" transform="translate(295.353 1814.443)" fill="#818181"/>
+    <circle id="Ellipse_1538" data-name="Ellipse 1538" cx="12.63" cy="12.63" r="12.63" transform="translate(539.533 1814.443)" fill="#37a28c"/>
+    <text id="Mon" transform="translate(295.353 1909.276)" fill="#fff" font-size="19" font-family="Poppins-Regular, Poppins" opacity="0.5"><tspan x="0" y="0">Mon</tspan></text>
+    <text id="_0" data-name="0" transform="translate(379.553 2238.814)" fill="#fff" font-size="17" font-family="Poppins-Regular, Poppins" opacity="0.5"><tspan x="0" y="0">0</tspan></text>
+    <text id="_100" data-name="100" transform="translate(484.803 2237.814)" fill="#fff" font-size="15" font-family="Poppins-Regular, Poppins" opacity="0.5"><tspan x="0" y="0">100</tspan></text>
+    <text id="_200" data-name="200" transform="translate(601.631 2237.814)" fill="#fff" font-size="15" font-family="Poppins-Regular, Poppins" opacity="0.5"><tspan x="0" y="0">200</tspan></text>
+    <text id="_300" data-name="300" transform="translate(716.354 2237.814)" fill="#fff" font-size="15" font-family="Poppins-Regular, Poppins" opacity="0.5"><tspan x="0" y="0">300</tspan></text>
+    <text id="_400" data-name="400" transform="translate(833.182 2235.709)" fill="#fff" font-size="15" font-family="Poppins-Regular, Poppins" opacity="0.5"><tspan x="0" y="0">400</tspan></text>
+    <text id="_500" data-name="500" transform="translate(947.904 2237.814)" fill="#fff" font-size="15" font-family="Poppins-Regular, Poppins" opacity="0.5"><tspan x="0" y="0">500</tspan></text>
+    <text id="Tue" transform="translate(295.353 1957.743)" fill="#fff" font-size="18" font-family="Poppins-Regular, Poppins" opacity="0.5"><tspan x="0" y="0">Tue</tspan></text>
+    <text id="Wed" transform="translate(295.353 2008.211)" fill="#fff" font-size="19" font-family="Poppins-Regular, Poppins" opacity="0.5"><tspan x="0" y="0">Wed</tspan></text>
+    <text id="Thu" transform="translate(295.353 2056.678)" fill="#fff" font-size="18" font-family="Poppins-Regular, Poppins" opacity="0.5"><tspan x="0" y="0">Thu</tspan></text>
+    <text id="Fri" transform="translate(295.353 2107.146)" fill="#fff" font-size="19" font-family="Poppins-Regular, Poppins" opacity="0.5"><tspan x="0" y="0">Fri</tspan></text>
+    <text id="Sat" transform="translate(295.353 2155.614)" fill="#fff" font-size="18" font-family="Poppins-Regular, Poppins" opacity="0.5"><tspan x="0" y="0">Sat</tspan></text>
+    <text id="Sun" transform="translate(295.353 2205.081)" fill="#fff" font-size="18" font-family="Poppins-Regular, Poppins" opacity="0.5"><tspan x="0" y="0">Sun</tspan></text>
+    <g id="Repeat_Grid_19" data-name="Repeat Grid 19" transform="translate(386.921 1892.328)" opacity="0.5" clip-path="url(#clip-path)">
+      <g id="Group_3203" data-name="Group 3203" transform="translate(-189 -136)">
+        <line id="Line_30" data-name="Line 30" y2="213" transform="translate(189.5 136.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1" opacity="0.5"/>
+      </g>
+      <g id="Group_3204" data-name="Group 3204" transform="translate(-117 -136)">
+        <line id="Line_30-2" data-name="Line 30" y2="213" transform="translate(189.5 136.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1" opacity="0.5"/>
+      </g>
+      <g id="Group_3205" data-name="Group 3205" transform="translate(-45 -136)">
+        <line id="Line_30-3" data-name="Line 30" y2="213" transform="translate(189.5 136.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1" opacity="0.5"/>
+      </g>
+      <g id="Group_3206" data-name="Group 3206" transform="translate(27 -136)">
+        <line id="Line_30-4" data-name="Line 30" y2="213" transform="translate(189.5 136.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1" opacity="0.5"/>
+      </g>
+      <g id="Group_3207" data-name="Group 3207" transform="translate(99 -136)">
+        <line id="Line_30-5" data-name="Line 30" y2="213" transform="translate(189.5 136.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1" opacity="0.5"/>
+      </g>
+      <g id="Group_3208" data-name="Group 3208" transform="translate(171 -136)">
+        <line id="Line_30-6" data-name="Line 30" y2="213" transform="translate(189.5 136.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1" opacity="0.5"/>
+      </g>
+      <g id="Group_3209" data-name="Group 3209" transform="translate(243 -136)">
+        <line id="Line_30-7" data-name="Line 30" y2="213" transform="translate(189.5 136.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1" opacity="0.5"/>
+      </g>
+      <g id="Group_3210" data-name="Group 3210" transform="translate(315 -136)">
+        <line id="Line_30-8" data-name="Line 30" y2="213" transform="translate(189.5 136.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1" opacity="0.5"/>
+      </g>
+      <g id="Group_3211" data-name="Group 3211" transform="translate(387 -136)">
+        <line id="Line_30-9" data-name="Line 30" y2="213" transform="translate(189.5 136.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1" opacity="0.5"/>
+      </g>
+      <g id="Group_3212" data-name="Group 3212" transform="translate(-189 98)">
+        <line id="Line_30-10" data-name="Line 30" y2="213" transform="translate(189.5 136.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1" opacity="0.5"/>
+      </g>
+      <g id="Group_3213" data-name="Group 3213" transform="translate(-117 98)">
+        <line id="Line_30-11" data-name="Line 30" y2="213" transform="translate(189.5 136.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1" opacity="0.5"/>
+      </g>
+      <g id="Group_3214" data-name="Group 3214" transform="translate(-45 98)">
+        <line id="Line_30-12" data-name="Line 30" y2="213" transform="translate(189.5 136.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1" opacity="0.5"/>
+      </g>
+      <g id="Group_3215" data-name="Group 3215" transform="translate(27 98)">
+        <line id="Line_30-13" data-name="Line 30" y2="213" transform="translate(189.5 136.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1" opacity="0.5"/>
+      </g>
+      <g id="Group_3216" data-name="Group 3216" transform="translate(99 98)">
+        <line id="Line_30-14" data-name="Line 30" y2="213" transform="translate(189.5 136.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1" opacity="0.5"/>
+      </g>
+      <g id="Group_3217" data-name="Group 3217" transform="translate(171 98)">
+        <line id="Line_30-15" data-name="Line 30" y2="213" transform="translate(189.5 136.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1" opacity="0.5"/>
+      </g>
+      <g id="Group_3218" data-name="Group 3218" transform="translate(243 98)">
+        <line id="Line_30-16" data-name="Line 30" y2="213" transform="translate(189.5 136.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1" opacity="0.5"/>
+      </g>
+      <g id="Group_3219" data-name="Group 3219" transform="translate(315 98)">
+        <line id="Line_30-17" data-name="Line 30" y2="213" transform="translate(189.5 136.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1" opacity="0.5"/>
+      </g>
+      <g id="Group_3220" data-name="Group 3220" transform="translate(387 98)">
+        <line id="Line_30-18" data-name="Line 30" y2="213" transform="translate(189.5 136.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1" opacity="0.5"/>
       </g>
     </g>
-    <g id="Group_3201" data-name="Group 3201">
-      <text id="Received" transform="translate(334.296 1837.233)" fill="#fff" font-size="28" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Received</tspan></text>
-      <text id="Transfered" transform="translate(577.424 1837.233)" fill="#fff" font-size="28" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Transfered</tspan></text>
-      <circle id="Ellipse_1537" data-name="Ellipse 1537" cx="12.63" cy="12.63" r="12.63" transform="translate(295.353 1814.443)" fill="#818181"/>
-      <circle id="Ellipse_1538" data-name="Ellipse 1538" cx="12.63" cy="12.63" r="12.63" transform="translate(539.533 1814.443)" fill="#37a28c"/>
-      <text id="Mon" transform="translate(295.353 1909.276)" fill="#fff" font-size="19" font-family="Poppins-Regular, Poppins" opacity="0.5"><tspan x="0" y="0">Mon</tspan></text>
-      <text id="_0" data-name="0" transform="translate(379.553 2238.814)" fill="#fff" font-size="17" font-family="Poppins-Regular, Poppins" opacity="0.5"><tspan x="0" y="0">0</tspan></text>
-      <text id="_100" data-name="100" transform="translate(484.803 2237.814)" fill="#fff" font-size="15" font-family="Poppins-Regular, Poppins" opacity="0.5"><tspan x="0" y="0">100</tspan></text>
-      <text id="_200" data-name="200" transform="translate(601.631 2237.814)" fill="#fff" font-size="15" font-family="Poppins-Regular, Poppins" opacity="0.5"><tspan x="0" y="0">200</tspan></text>
-      <text id="_300" data-name="300" transform="translate(716.354 2237.814)" fill="#fff" font-size="15" font-family="Poppins-Regular, Poppins" opacity="0.5"><tspan x="0" y="0">300</tspan></text>
-      <text id="_400" data-name="400" transform="translate(833.182 2235.709)" fill="#fff" font-size="15" font-family="Poppins-Regular, Poppins" opacity="0.5"><tspan x="0" y="0">400</tspan></text>
-      <text id="_500" data-name="500" transform="translate(947.904 2237.814)" fill="#fff" font-size="15" font-family="Poppins-Regular, Poppins" opacity="0.5"><tspan x="0" y="0">500</tspan></text>
-      <text id="Tue" transform="translate(295.353 1957.743)" fill="#fff" font-size="18" font-family="Poppins-Regular, Poppins" opacity="0.5"><tspan x="0" y="0">Tue</tspan></text>
-      <text id="Wed" transform="translate(295.353 2008.211)" fill="#fff" font-size="19" font-family="Poppins-Regular, Poppins" opacity="0.5"><tspan x="0" y="0">Wed</tspan></text>
-      <text id="Thu" transform="translate(295.353 2056.678)" fill="#fff" font-size="18" font-family="Poppins-Regular, Poppins" opacity="0.5"><tspan x="0" y="0">Thu</tspan></text>
-      <text id="Fri" transform="translate(295.353 2107.146)" fill="#fff" font-size="19" font-family="Poppins-Regular, Poppins" opacity="0.5"><tspan x="0" y="0">Fri</tspan></text>
-      <text id="Sat" transform="translate(295.353 2155.614)" fill="#fff" font-size="18" font-family="Poppins-Regular, Poppins" opacity="0.5"><tspan x="0" y="0">Sat</tspan></text>
-      <text id="Sun" transform="translate(295.353 2205.081)" fill="#fff" font-size="18" font-family="Poppins-Regular, Poppins" opacity="0.5"><tspan x="0" y="0">Sun</tspan></text>
-      <g id="Repeat_Grid_19" data-name="Repeat Grid 19" transform="translate(386.921 1892.328)" opacity="0.5" clip-path="url(#clip-path)">
-        <g transform="translate(-189 -136)">
-          <line id="Line_30" data-name="Line 30" y2="213" transform="translate(189.5 136.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1" opacity="0.5"/>
-        </g>
-        <g transform="translate(-117 -136)">
-          <line id="Line_30-2" data-name="Line 30" y2="213" transform="translate(189.5 136.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1" opacity="0.5"/>
-        </g>
-        <g transform="translate(-45 -136)">
-          <line id="Line_30-3" data-name="Line 30" y2="213" transform="translate(189.5 136.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1" opacity="0.5"/>
-        </g>
-        <g transform="translate(27 -136)">
-          <line id="Line_30-4" data-name="Line 30" y2="213" transform="translate(189.5 136.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1" opacity="0.5"/>
-        </g>
-        <g transform="translate(99 -136)">
-          <line id="Line_30-5" data-name="Line 30" y2="213" transform="translate(189.5 136.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1" opacity="0.5"/>
-        </g>
-        <g transform="translate(171 -136)">
-          <line id="Line_30-6" data-name="Line 30" y2="213" transform="translate(189.5 136.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1" opacity="0.5"/>
-        </g>
-        <g transform="translate(243 -136)">
-          <line id="Line_30-7" data-name="Line 30" y2="213" transform="translate(189.5 136.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1" opacity="0.5"/>
-        </g>
-        <g transform="translate(315 -136)">
-          <line id="Line_30-8" data-name="Line 30" y2="213" transform="translate(189.5 136.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1" opacity="0.5"/>
-        </g>
-        <g transform="translate(387 -136)">
-          <line id="Line_30-9" data-name="Line 30" y2="213" transform="translate(189.5 136.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1" opacity="0.5"/>
-        </g>
-        <g transform="translate(-189 98)">
-          <line id="Line_30-10" data-name="Line 30" y2="213" transform="translate(189.5 136.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1" opacity="0.5"/>
-        </g>
-        <g transform="translate(-117 98)">
-          <line id="Line_30-11" data-name="Line 30" y2="213" transform="translate(189.5 136.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1" opacity="0.5"/>
-        </g>
-        <g transform="translate(-45 98)">
-          <line id="Line_30-12" data-name="Line 30" y2="213" transform="translate(189.5 136.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1" opacity="0.5"/>
-        </g>
-        <g transform="translate(27 98)">
-          <line id="Line_30-13" data-name="Line 30" y2="213" transform="translate(189.5 136.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1" opacity="0.5"/>
-        </g>
-        <g transform="translate(99 98)">
-          <line id="Line_30-14" data-name="Line 30" y2="213" transform="translate(189.5 136.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1" opacity="0.5"/>
-        </g>
-        <g transform="translate(171 98)">
-          <line id="Line_30-15" data-name="Line 30" y2="213" transform="translate(189.5 136.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1" opacity="0.5"/>
-        </g>
-        <g transform="translate(243 98)">
-          <line id="Line_30-16" data-name="Line 30" y2="213" transform="translate(189.5 136.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1" opacity="0.5"/>
-        </g>
-        <g transform="translate(315 98)">
-          <line id="Line_30-17" data-name="Line 30" y2="213" transform="translate(189.5 136.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1" opacity="0.5"/>
-        </g>
-        <g transform="translate(387 98)">
-          <line id="Line_30-18" data-name="Line 30" y2="213" transform="translate(189.5 136.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1" opacity="0.5"/>
-        </g>
-      </g>
-      <rect id="Rectangle_724" data-name="Rectangle 724" width="229.445" height="13.683" rx="4" transform="translate(386.921 1898.643)" fill="#37a28c"/>
-      <rect id="Rectangle_725" data-name="Rectangle 725" width="115.775" height="12.63" rx="4" transform="translate(501.644 1996.526)" fill="#37a28c"/>
-      <rect id="Rectangle_726" data-name="Rectangle 726" width="229.445" height="12.63" rx="4" transform="translate(502.695 2095.461)" fill="#37a28c"/>
-      <rect id="Rectangle_727" data-name="Rectangle 727" width="115.775" height="12.63" rx="4" transform="translate(386.921 2045.994)" fill="#818181"/>
-      <rect id="Rectangle_728" data-name="Rectangle 728" width="116.828" height="12.63" rx="4" transform="translate(732.141 2045.994)" fill="#818181"/>
-      <rect id="Rectangle_729" data-name="Rectangle 729" width="115.775" height="12.63" rx="4" transform="translate(845.812 2144.928)" fill="#818181"/>
-      <rect id="Rectangle_730" data-name="Rectangle 730" width="229.445" height="12.63" rx="4" transform="translate(616.366 1947.058)" fill="#818181"/>
-    </g>
+    <rect id="Rectangle_724" data-name="Rectangle 724" width="229.445" height="13.683" rx="4" transform="translate(386.921 1898.643)" fill="#37a28c"/>
+    <rect id="Rectangle_725" data-name="Rectangle 725" width="115.775" height="12.63" rx="4" transform="translate(501.644 1996.526)" fill="#37a28c"/>
+    <rect id="Rectangle_726" data-name="Rectangle 726" width="229.445" height="12.63" rx="4" transform="translate(502.695 2095.461)" fill="#37a28c"/>
+    <rect id="Rectangle_727" data-name="Rectangle 727" width="115.775" height="12.63" rx="4" transform="translate(386.921 2045.994)" fill="#818181"/>
+    <rect id="Rectangle_728" data-name="Rectangle 728" width="116.828" height="12.63" rx="4" transform="translate(732.141 2045.994)" fill="#818181"/>
+    <rect id="Rectangle_729" data-name="Rectangle 729" width="115.775" height="12.63" rx="4" transform="translate(845.812 2144.928)" fill="#818181"/>
+    <rect id="Rectangle_730" data-name="Rectangle 730" width="229.445" height="12.63" rx="4" transform="translate(616.366 1947.058)" fill="#818181"/>
   </g>
 </svg>
